@@ -62,12 +62,15 @@ For the invasiveness index, please also cite:
 
 ## Publications
 
-The classification algorithms were developed and validated in the following studies:
+The classification algorithms were developed and validated based on the following studies and updated to reflect recent coding changes:
 
 1. Martin BI, Mirza SK, Karamian BA, Schoenfeld AJ, Ko H, Suri P, Brodke DS. Cost and utilization trends of lumbar fusion. *JAMA Netw Open*. 2026 Mar 2;9(3):e260452. [doi:10.1001/jamanetworkopen.2026.0452](https://doi.org/10.1001/jamanetworkopen.2026.0452). PMID: 41779395; PMCID: PMC12961518.
-2. Patel NK, Moses RA, Martin BI, Lurie JD, Mirza SK. Validation of using claims data to measure safety of lumbar fusion surgery. *Spine (Phila Pa 1976)*. 2017 May 1;42(9):682-691. [doi:10.1097/BRS.0000000000001879](https://doi.org/10.1097/BRS.0000000000001879). PMID: 27557452; PMCID: PMC5325826.
-3. Kazberouk A, Martin BI, Stevens JP, McGuire KJ. Validation of an administrative coding algorithm for classifying surgical indication and operative features of spine surgery. *Spine (Phila Pa 1976)*. 2015 Jan 15;40(2):114-120. [doi:10.1097/BRS.0000000000000682](https://doi.org/10.1097/BRS.0000000000000682). PMID: 25575086.
-4. Martin BI, Lurie JD, Tosteson AN, Deyo RA, Tosteson TD, Weinstein JN, Mirza SK. Indications for spine surgery: validation of an administrative coding algorithm to classify degenerative diagnoses. *Spine (Phila Pa 1976)*. 2014 Apr 20;39(9):769-779. [doi:10.1097/BRS.0000000000000275](https://doi.org/10.1097/BRS.0000000000000275). PMID: 24525995; PMCID: PMC4018409.
+2. Martin BI, Lurie JD, Tosteson AN, Deyo RA, Tosteson TD, Weinstein JN, Mirza SK. Indications for spine surgery: validation of an administrative coding algorithm to classify degenerative diagnoses. *Spine (Phila Pa 1976)*. 2014 Apr 20;39(9):769-779. [doi:10.1097/BRS.0000000000000275](https://doi.org/10.1097/BRS.0000000000000275). PMID: 24525995; PMCID: PMC4018409.
+3. Mirza SK, Martin BI, Goodkin R, Hart RA, Anderson PA. Developing a toolkit for comparing safety in spine surgery. Instr Course Lect. 2014;63:271-86. PMID: 24720313.
+3. Mirza SK, Deyo RA, Heagerty PJ, Konodi MA, Lee LA, Turner JA, Goodkin R. Development of an index to characterize the "invasiveness" of spine surgery: validation by comparison to blood loss and operative time. Spine (Phila Pa 1976). 2008 Nov 15;33(24):2651-61; discussion 2662. doi: 10.1097/BRS.0b013e31818dad07. PMID: 18981957.
+4. Mirza SK, Deyo RA, Heagerty PJ, Turner JA, Lee LA, Goodkin R. Towards standardized measurement of adverse events in spine surgery: conceptual model and pilot evaluation. BMC Musculoskelet Disord. 2006 Jun 20;7:53. doi: 10.1186/1471-2474-7-53. PMID: 16787537; PMCID: PMC1562418.
+5. Patel NK, Moses RA, Martin BI, Lurie JD, Mirza SK. Validation of using claims data to measure safety of lumbar fusion surgery. *Spine (Phila Pa 1976)*. 2017 May 1;42(9):682-691. [doi:10.1097/BRS.0000000000001879](https://doi.org/10.1097/BRS.0000000000001879). PMID: 27557452; PMCID: PMC5325826.
+6. Kazberouk A, Martin BI, Stevens JP, McGuire KJ. Validation of an administrative coding algorithm for classifying surgical indication and operative features of spine surgery. *Spine (Phila Pa 1976)*. 2015 Jan 15;40(2):114-120. [doi:10.1097/BRS.0000000000000682](https://doi.org/10.1097/BRS.0000000000000682). PMID: 25575086.
 
 ## Author
 
