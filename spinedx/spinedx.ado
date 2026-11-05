@@ -1,4 +1,4 @@
-*! spinedx v2.6 (ICD-9-CM and ICD-10-CM diagnoses)  Brook I. Martin  27Oct2026
+*! spinedx v2.6.1 (ICD-9-CM and ICD-10-CM diagnoses)  Brook I. Martin  05Nov2026
 *! Department of Orthopaedics, University of Utah
 *!
 *! Classifies spine diagnoses into clinical categories (SPINEDX1-SPINEDX16),
@@ -16,7 +16,8 @@
 *!              is read only where icdver==9 and dx10() only where
 *!              icdver==10, so one set of variables holding both versions can be
 *!              passed to both options: dx9(dx1-dx25) dx10(dx1-dx25) icdver(ver)
-*!   idvar()    long data: flags are set to the maximum within idvar on every row
+*!   idvar()    long data: flags are set to the maximum within idvar and written
+*!              on every row (the data are not collapsed; see help spinedx)
 *!   library()  code library; default spinedx_codes.csv on the adopath
 *!   replace    overwrite existing output variables
 *!
@@ -104,7 +105,7 @@ program define spinedx
 
     marksample touse, novarlist
 
-    di as txt "spinedx v2.6: library " as res `"`library'"'
+    di as txt "spinedx v2.6.1: library " as res `"`library'"'
 
     * ---- load library: one row per (system, prefix) with 0/1 indicators -----
     tempname LIB
@@ -246,7 +247,7 @@ program define spinedx
         sort `idvar' `ord'
         foreach f in DEGDX `flags' {
             quietly by `idvar': egen byte `m' = max(`f')
-            quietly replace `f' = `m' if !missing(`m')
+            quietly replace `f' = `m' if `touse' & !missing(`m')
             drop `m'
         }
         sort `ord'

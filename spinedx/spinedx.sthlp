@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 2.6  05nov2026}{...}
+{* *! version 2.6.1  05nov2026}{...}
 {viewerjumpto "Syntax" "spinedx##syntax"}{...}
 {viewerjumpto "Description" "spinedx##description"}{...}
 {viewerjumpto "Options" "spinedx##options"}{...}
