@@ -1,0 +1,4 @@
+v 3
+d spinedx: Classify spine diagnoses from ICD-9-CM and ICD-10-CM codes
+d Brook I. Martin, PhD, MPH, Department of Orthopaedics, University of Utah
+p spinedx Classify spine diagnoses from ICD-9-CM and ICD-10-CM codes

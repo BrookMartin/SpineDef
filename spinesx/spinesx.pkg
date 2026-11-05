@@ -1,0 +1,21 @@
+v 3
+d 'SPINESX': Classify spine procedures from CPT/HCPCS codes
+d
+d Classifies CPT/HCPCS codes into 18 spine procedure groups and vertebral
+d regions, and estimates the minimum and maximum number of levels fused
+d and decompressed. Designed for outpatient data such as the HCUP
+d Nationwide Ambulatory Surgery Sample (NASS).
+d
+d Requires Stata 16 or later.
+d
+d Author: Brook I. Martin, PhD, MPH
+d Department of Orthopaedics, University of Utah
+d Support: Brook.Martin@hsc.utah.edu
+d
+d Version 2.2
+d Distribution-Date: 20261105
+d
+f spinesx.ado
+f spinesx.sthlp
+F spinesx_codes.csv
+f spinesx_test.do

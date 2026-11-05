@@ -1,0 +1,21 @@
+v 3
+d 'SPINEDX': Classify spine diagnoses from ICD-9-CM and ICD-10-CM codes
+d
+d Classifies ICD-9-CM and ICD-10-CM diagnosis codes into 16 spine diagnosis
+d categories, a degenerative diagnosis hierarchy and vertebral regions,
+d using one code library so that trends can span the October 2015
+d transition from ICD-9 to ICD-10.
+d
+d Requires Stata 16 or later.
+d
+d Author: Brook I. Martin, PhD, MPH
+d Department of Orthopaedics, University of Utah
+d Support: Brook.Martin@hsc.utah.edu
+d
+d Version 2.6
+d Distribution-Date: 20261105
+d
+f spinedx.ado
+f spinedx.sthlp
+F spinedx_codes.csv
+f spinedx_test.do

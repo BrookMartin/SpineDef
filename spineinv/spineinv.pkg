@@ -1,0 +1,21 @@
+v 3
+d 'SPINEINV': Surgical Invasiveness Index from CPT codes
+d
+d Calculates the Surgical Invasiveness Index (the number of vertebrae
+d decompressed, fused and instrumented, anteriorly and posteriorly)
+d from CPT/HCPCS codes, with flags for add-on codes without a primary
+d code, non-additive duplicates and co-coded tiered codes.
+d
+d Requires Stata 16 or later.
+d
+d Author: Brook I. Martin, PhD, MPH
+d Department of Orthopaedics, University of Utah
+d Support: Brook.Martin@hsc.utah.edu
+d
+d Version 5.1
+d Distribution-Date: 20261105
+d
+f spineinv.ado
+f spineinv.sthlp
+F spineinv_codes.csv
+f spineinv_test.do

@@ -1,0 +1,1052 @@
+system,prefix,variable,description
+icd10cm,S134,SPINEDX1,Sprain of ligaments of cervical spine
+icd10cm,S138,SPINEDX1,Sprain of joints and ligaments of other parts of neck
+icd10cm,S139,SPINEDX1,Sprain of joints and ligaments of unspecified parts of neck
+icd10cm,S161,SPINEDX1,"Strain of muscle, fascia and tendon at neck level"
+icd10cm,S233,SPINEDX1,Sprain of ligaments of thoracic spine
+icd10cm,S29002,SPINEDX1,Unspecified injury of muscle and tendon of back wall of thorax
+icd10cm,S29012,SPINEDX1,Strain of muscle and tendon of back wall of thorax
+icd10cm,S29092,SPINEDX1,Other injury of muscle and tendon of back wall of thorax
+icd10cm,S335,SPINEDX1,Sprain of ligaments of lumbar spine
+icd10cm,S336,SPINEDX1,Sprain of sacroiliac joint
+icd10cm,S338,SPINEDX1,Sprain of other parts of lumbar spine and pelvis
+icd10cm,S339,SPINEDX1,Sprain of unspecified parts of lumbar spine and pelvis
+icd10cm,S39002,SPINEDX1,"Unspecified injury of muscle, fascia and tendon of lower back"
+icd10cm,S39012,SPINEDX1,"Strain of muscle, fascia and tendon of lower back"
+icd10cm,S39092,SPINEDX1,"Other injury of muscle, fascia and tendon of lower back"
+icd10cm,M430,SPINEDX2,Spondylolysis
+icd10cm,M464,SPINEDX2,"Discitis, unspecified"
+icd10cm,M472,SPINEDX2,Other spondylosis with radiculopathy
+icd10cm,M478,SPINEDX2,Other spondylosis
+icd10cm,M479,SPINEDX2,"Spondylosis, unspecified"
+icd10cm,M503,SPINEDX2,Other cervical disc degeneration
+icd10cm,M513,SPINEDX2,"Other thoracic, thoracolumbar and lumbosacral intervertebral disc degeneration"
+icd10cm,M514,SPINEDX2,Schmorl's nodes
+icd10cm,M533,SPINEDX2,"Sacrococcygeal disorders, not elsewhere classified"
+icd10cm,M538,SPINEDX2,Other specified dorsopathies
+icd10cm,M539,SPINEDX2,"Dorsopathy, unspecified"
+icd10cm,M542,SPINEDX2,Cervicalgia
+icd10cm,M544,SPINEDX2,Lumbago with sciatica
+icd10cm,M545,SPINEDX2,Low back pain
+icd10cm,M546,SPINEDX2,Pain in thoracic spine
+icd10cm,M5489,SPINEDX2,Other dorsalgia
+icd10cm,M549,SPINEDX2,"Dorsalgia, unspecified"
+icd10cm,M500,SPINEDX3,Cervical disc disorder with myelopathy
+icd10cm,M501,SPINEDX3,Cervical disc disorder with radiculopathy
+icd10cm,M502,SPINEDX3,Other cervical disc displacement
+icd10cm,M508,SPINEDX3,Other cervical disc disorders
+icd10cm,M509,SPINEDX3,"Cervical disc disorder, unspecified"
+icd10cm,M510,SPINEDX3,"Thoracic, thoracolumbar and lumbosacral intervertebral disc disorders with myelopathy"
+icd10cm,M511,SPINEDX3,"Thoracic, thoracolumbar and lumbosacral intervertebral disc disorders with radiculopathy"
+icd10cm,M512,SPINEDX3,"Other thoracic, thoracolumbar and lumbosacral intervertebral disc displacement"
+icd10cm,M518,SPINEDX3,"Other thoracic, thoracolumbar and lumbosacral intervertebral disc disorders"
+icd10cm,M519,SPINEDX3,"Unspecified thoracic, thoracolumbar and lumbosacral intervertebral disc disorder"
+icd10cm,M51A,SPINEDX3,Other lumbar and lumbosacral annulus fibrosus disc defects
+icd10cm,S130,SPINEDX3,Traumatic rupture of cervical intervertebral disc
+icd10cm,S230,SPINEDX3,Traumatic rupture of thoracic intervertebral disc
+icd10cm,S330,SPINEDX3,Traumatic rupture of lumbar intervertebral disc
+icd10cm,M471,SPINEDX4,Other spondylosis with myelopathy
+icd10cm,M480,SPINEDX4,Spinal stenosis
+icd10cm,M993,SPINEDX4,Osseous stenosis of neural canal
+icd10cm,M994,SPINEDX4,Connective tissue stenosis of neural canal
+icd10cm,M995,SPINEDX4,Intervertebral disc stenosis of neural canal
+icd10cm,M996,SPINEDX4,Osseous and subluxation stenosis of intervertebral foramina
+icd10cm,M997,SPINEDX4,Connective tissue and disc stenosis of intervertebral foramina
+icd10cm,M431,SPINEDX5,Spondylolisthesis
+icd10cm,M433,SPINEDX5,Recurrent atlantoaxial dislocation with myelopathy
+icd10cm,M434,SPINEDX5,Other recurrent atlantoaxial dislocation
+icd10cm,M435,SPINEDX5,Other recurrent vertebral dislocation
+icd10cm,M532,SPINEDX5,Spinal instabilities
+icd10cm,M9901,SPINEDX5,Segmental and somatic dysfunction of cervical region
+icd10cm,M9902,SPINEDX5,Segmental and somatic dysfunction of thoracic region
+icd10cm,M9903,SPINEDX5,Segmental and somatic dysfunction of lumbar region
+icd10cm,M9904,SPINEDX5,Segmental and somatic dysfunction of sacral region
+icd10cm,M991,SPINEDX5,Subluxation complex (vertebral)
+icd10cm,M992,SPINEDX5,Subluxation stenosis of neural canal
+icd10cm,S12130S,SPINEDX5,"Unspecified traumatic displaced spondylolisthesis of second cervical vertebra, sequela"
+icd10cm,S12131,SPINEDX5,Unspecified traumatic nondisplaced spondylolisthesis of second cervical vertebra
+icd10cm,S1214,SPINEDX5,Type III traumatic spondylolisthesis of second cervical vertebra
+icd10cm,S1215,SPINEDX5,Other traumatic spondylolisthesis of second cervical vertebra
+icd10cm,S1223,SPINEDX5,Unspecified traumatic spondylolisthesis of third cervical vertebra
+icd10cm,S1224,SPINEDX5,Type III traumatic spondylolisthesis of third cervical vertebra
+icd10cm,S1225,SPINEDX5,Other traumatic spondylolisthesis of third cervical vertebra
+icd10cm,S1233,SPINEDX5,Unspecified traumatic spondylolisthesis of fourth cervical vertebra
+icd10cm,S1234,SPINEDX5,Type III traumatic spondylolisthesis of fourth cervical vertebra
+icd10cm,S1235,SPINEDX5,Other traumatic spondylolisthesis of fourth cervical vertebra
+icd10cm,S1243,SPINEDX5,Unspecified traumatic spondylolisthesis of fifth cervical vertebra
+icd10cm,S1244,SPINEDX5,Type III traumatic spondylolisthesis of fifth cervical vertebra
+icd10cm,S1245,SPINEDX5,Other traumatic spondylolisthesis of fifth cervical vertebra
+icd10cm,S1253,SPINEDX5,Unspecified traumatic spondylolisthesis of sixth cervical vertebra
+icd10cm,S1254,SPINEDX5,Type III traumatic spondylolisthesis of sixth cervical vertebra
+icd10cm,S1255,SPINEDX5,Other traumatic spondylolisthesis of sixth cervical vertebra
+icd10cm,S1263,SPINEDX5,Unspecified traumatic spondylolisthesis of seventh cervical vertebra
+icd10cm,S1264,SPINEDX5,Type III traumatic spondylolisthesis of seventh cervical vertebra
+icd10cm,S1265,SPINEDX5,Other traumatic spondylolisthesis of seventh cervical vertebra
+icd10cm,S131,SPINEDX5,Subluxation and dislocation of cervical vertebrae
+icd10cm,S132,SPINEDX5,Dislocation of other and unspecified parts of neck
+icd10cm,S231,SPINEDX5,Subluxation and dislocation of thoracic vertebra
+icd10cm,S331,SPINEDX5,Subluxation and dislocation of lumbar vertebra
+icd10cm,S332,SPINEDX5,Dislocation of sacroiliac and sacrococcygeal joint
+icd10cm,M400,SPINEDX6,Postural kyphosis
+icd10cm,M401,SPINEDX6,Other secondary kyphosis
+icd10cm,M402,SPINEDX6,Other and unspecified kyphosis
+icd10cm,M403,SPINEDX6,Flatback syndrome
+icd10cm,M404,SPINEDX6,Postural lordosis
+icd10cm,M405,SPINEDX6,"Lordosis, unspecified"
+icd10cm,M41,SPINEDX6,Scoliosis
+icd10cm,M438,SPINEDX6,Other specified deforming dorsopathies
+icd10cm,M439,SPINEDX6,"Deforming dorsopathy, unspecified"
+icd10cm,M962,SPINEDX6,Postradiation kyphosis
+icd10cm,M963,SPINEDX6,Postlaminectomy kyphosis
+icd10cm,M964,SPINEDX6,Postsurgical lordosis
+icd10cm,M965,SPINEDX6,Postradiation scoliosis
+icd10cm,G542,SPINEDX7,"Cervical root disorders, not elsewhere classified"
+icd10cm,G543,SPINEDX7,"Thoracic root disorders, not elsewhere classified"
+icd10cm,G544,SPINEDX7,"Lumbosacral root disorders, not elsewhere classified"
+icd10cm,G55,SPINEDX7,Nerve root and plexus compressions in diseases classified elsewhere
+icd10cm,G834,SPINEDX7,Cauda equina syndrome
+icd10cm,M472,SPINEDX7,Other spondylosis with radiculopathy
+icd10cm,M48062,SPINEDX7,"Spinal stenosis, lumbar region with neurogenic claudication"
+icd10cm,M501,SPINEDX7,Cervical disc disorder with radiculopathy
+icd10cm,M511,SPINEDX7,"Thoracic, thoracolumbar and lumbosacral intervertebral disc disorders with radiculopathy"
+icd10cm,M531,SPINEDX7,Cervicobrachial syndrome
+icd10cm,M541,SPINEDX7,Radiculopathy
+icd10cm,M543,SPINEDX7,Sciatica
+icd10cm,M544,SPINEDX7,Lumbago with sciatica
+icd10cm,S142,SPINEDX7,Injury of nerve root of cervical spine
+icd10cm,S242,SPINEDX7,Injury of nerve root of thoracic spine
+icd10cm,S342,SPINEDX7,Injury of nerve root of lumbar and sacral spine
+icd10cm,M485,SPINEDX8,"Collapsed vertebra, not elsewhere classified"
+icd10cm,S120,SPINEDX8,Fracture of first cervical vertebra
+icd10cm,S121,SPINEDX8,Fracture of second cervical vertebra
+icd10cm,S122,SPINEDX8,Fracture of third cervical vertebra
+icd10cm,S123,SPINEDX8,Fracture of fourth cervical vertebra
+icd10cm,S124,SPINEDX8,Fracture of fifth cervical vertebra
+icd10cm,S125,SPINEDX8,Fracture of sixth cervical vertebra
+icd10cm,S126,SPINEDX8,Fracture of seventh cervical vertebra
+icd10cm,S129,SPINEDX8,"Fracture of neck, unspecified"
+icd10cm,S220,SPINEDX8,Fracture of thoracic vertebra
+icd10cm,S320,SPINEDX8,Fracture of lumbar vertebra
+icd10cm,S321,SPINEDX8,Fracture of sacrum
+icd10cm,S322,SPINEDX8,Fracture of coccyx
+icd10cm,S140,SPINEDX9,Concussion and edema of cervical spinal cord
+icd10cm,S141,SPINEDX9,Other and unspecified injuries of cervical spinal cord
+icd10cm,S240,SPINEDX9,Concussion and edema of thoracic spinal cord
+icd10cm,S241,SPINEDX9,Other and unspecified injuries of thoracic spinal cord
+icd10cm,S340,SPINEDX9,Concussion and edema of lumbar and sacral spinal cord
+icd10cm,S341,SPINEDX9,Other and unspecified injury of lumbar and sacral spinal cord
+icd10cm,S343,SPINEDX9,Injury of cauda equina
+icd10cm,G950,SPINEDX10,Syringomyelia and syringobulbia
+icd10cm,M1468,SPINEDX10,"Charcôt's joint, vertebrae"
+icd10cm,M2578,SPINEDX10,"Osteophyte, vertebrae"
+icd10cm,M42,SPINEDX10,Spinal osteochondrosis
+icd10cm,M432,SPINEDX10,Fusion of spine
+icd10cm,M436,SPINEDX10,Torticollis
+icd10cm,M481,SPINEDX10,Ankylosing hyperostosis [Forestier]
+icd10cm,M482,SPINEDX10,Kissing spine
+icd10cm,M483,SPINEDX10,Traumatic spondylopathy
+icd10cm,M881,SPINEDX10,Osteitis deformans of vertebrae
+icd10cm,M9983,SPINEDX10,Other biomechanical lesions of lumbar region
+icd10cm,M9984,SPINEDX10,Other biomechanical lesions of sacral region
+icd10cm,Q05,SPINEDX10,Spina bifida
+icd10cm,Q06,SPINEDX10,Other congenital malformations of spinal cord
+icd10cm,Q070,SPINEDX10,Arnold-Chiari syndrome
+icd10cm,Q675,SPINEDX10,Congenital deformity of spine
+icd10cm,Q760,SPINEDX10,Spina bifida occulta
+icd10cm,Q761,SPINEDX10,Klippel-Feil syndrome
+icd10cm,Q762,SPINEDX10,Congenital spondylolisthesis
+icd10cm,Q763,SPINEDX10,Congenital scoliosis due to congenital bony malformation
+icd10cm,Q764,SPINEDX10,"Other congenital malformations of spine, not associated with scoliosis"
+icd10cm,M45,SPINEDX11,Ankylosing spondylitis
+icd10cm,M460,SPINEDX11,Spinal enthesopathy
+icd10cm,M461,SPINEDX11,"Sacroiliitis, not elsewhere classified"
+icd10cm,M468,SPINEDX11,Other specified inflammatory spondylopathies
+icd10cm,M469,SPINEDX11,Unspecified inflammatory spondylopathy
+icd10cm,M488,SPINEDX11,Other specified spondylopathies
+icd10cm,M489,SPINEDX11,"Spondylopathy, unspecified"
+icd10cm,M49,SPINEDX11,Spondylopathies in diseases classified elsewhere
+icd10cm,M540,SPINEDX11,Panniculitis affecting regions of neck and back
+icd10cm,M484,SPINEDX12,Fatigue fracture of vertebra
+icd10cm,M485,SPINEDX12,"Collapsed vertebra, not elsewhere classified"
+icd10cm,M8008,SPINEDX12,"Age-related osteoporosis with current pathological fracture, vertebra(e)"
+icd10cm,M8088,SPINEDX12,"Other osteoporosis with current pathological fracture, vertebra(e)"
+icd10cm,M8458,SPINEDX12,"Pathological fracture in neoplastic disease, other specified site"
+icd10cm,M960,SPINEDX13,Pseudarthrosis after fusion or arthrodesis
+icd10cm,M961,SPINEDX13,"Postlaminectomy syndrome, not elsewhere classified"
+icd10cm,M963,SPINEDX13,Postlaminectomy kyphosis
+icd10cm,M964,SPINEDX13,Postsurgical lordosis
+icd10cm,T84216,SPINEDX13,Breakdown (mechanical) of internal fixation device of vertebrae
+icd10cm,T84226,SPINEDX13,Displacement of internal fixation device of vertebrae
+icd10cm,T84296,SPINEDX13,Other mechanical complication of internal fixation device of vertebrae
+icd10cm,T84418,SPINEDX13,"Breakdown (mechanical) of other internal orthopedic devices, implants and grafts"
+icd10cm,T84428,SPINEDX13,"Displacement of other internal orthopedic devices, implants and grafts"
+icd10cm,T84498,SPINEDX13,"Other mechanical complication of other internal orthopedic devices, implants and grafts"
+icd10cm,T8463,SPINEDX13,Infection and inflammatory reaction due to internal fixation device of spine
+icd10cm,T847,SPINEDX13,"Infection and inflammatory reaction due to other internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T848,SPINEDX13,"Other specified complications of internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T849,SPINEDX13,"Unspecified complication of internal orthopedic prosthetic device, implant and graft"
+icd10cm,T85192,SPINEDX13,Other mechanical complication of implanted electronic neurostimulator of spinal cord electrode (lead)
+icd10cm,Z981,SPINEDX13,Arthrodesis status
+icd10cm,A1801,SPINEDX14,Tuberculosis of spine
+icd10cm,G061,SPINEDX14,Intraspinal abscess and granuloma
+icd10cm,M462,SPINEDX14,Osteomyelitis of vertebra
+icd10cm,M463,SPINEDX14,Infection of intervertebral disc (pyogenic)
+icd10cm,M465,SPINEDX14,Other infective spondylopathies
+icd10cm,G952,SPINEDX15,Other and unspecified cord compression
+icd10cm,G959,SPINEDX15,"Disease of spinal cord, unspecified"
+icd10cm,G992,SPINEDX15,Myelopathy in diseases classified elsewhere
+icd10cm,M433,SPINEDX15,Recurrent atlantoaxial dislocation with myelopathy
+icd10cm,M470,SPINEDX15,Anterior spinal and vertebral artery compression syndromes
+icd10cm,M471,SPINEDX15,Other spondylosis with myelopathy
+icd10cm,M500,SPINEDX15,Cervical disc disorder with myelopathy
+icd10cm,M510,SPINEDX15,"Thoracic, thoracolumbar and lumbosacral intervertebral disc disorders with myelopathy"
+icd10cm,C412,SPINEDX16,Malignant neoplasm of vertebral column
+icd10cm,C701,SPINEDX16,Malignant neoplasm of spinal meninges
+icd10cm,C720,SPINEDX16,Malignant neoplasm of spinal cord
+icd10cm,C721,SPINEDX16,Malignant neoplasm of cauda equina
+icd10cm,D166,SPINEDX16,Benign neoplasm of vertebral column
+icd10cm,D321,SPINEDX16,Benign neoplasm of spinal meninges
+icd10cm,D334,SPINEDX16,Benign neoplasm of spinal cord
+icd10cm,D421,SPINEDX16,Neoplasm of uncertain behavior of spinal meninges
+icd10cm,D434,SPINEDX16,Neoplasm of uncertain behavior of spinal cord
+icd10cm,M4141,REG_A,"Neuromuscular scoliosis, occipito-atlanto-axial region"
+icd10cm,M4201,REG_A,"Juvenile osteochondrosis of spine, occipito-atlanto-axial region"
+icd10cm,M4211,REG_A,"Adult osteochondrosis of spine, occipito-atlanto-axial region"
+icd10cm,M4301,REG_A,"Spondylolysis, occipito-atlanto-axial region"
+icd10cm,M4311,REG_A,"Spondylolisthesis, occipito-atlanto-axial region"
+icd10cm,M4321,REG_A,"Fusion of spine, occipito-atlanto-axial region"
+icd10cm,M433,REG_A,Recurrent atlantoaxial dislocation with myelopathy
+icd10cm,M434,REG_A,Other recurrent atlantoaxial dislocation
+icd10cm,M438X1,REG_A,"Other specified deforming dorsopathies, occipito-atlanto-axial region"
+icd10cm,M451,REG_A,Ankylosing spondylitis of occipito-atlanto-axial region
+icd10cm,M45A1,REG_A,Non-radiographic axial spondyloarthritis of occipito-atlanto-axial region
+icd10cm,M4601,REG_A,"Spinal enthesopathy, occipito-atlanto-axial region"
+icd10cm,M4621,REG_A,"Osteomyelitis of vertebra, occipito-atlanto-axial region"
+icd10cm,M4631,REG_A,"Infection of intervertebral disc (pyogenic), occipito-atlanto-axial region"
+icd10cm,M4641,REG_A,"Discitis, unspecified, occipito-atlanto-axial region"
+icd10cm,M4651,REG_A,"Other infective spondylopathies, occipito-atlanto-axial region"
+icd10cm,M4681,REG_A,"Other specified inflammatory spondylopathies, occipito-atlanto-axial region"
+icd10cm,M4691,REG_A,"Unspecified inflammatory spondylopathy, occipito-atlanto-axial region"
+icd10cm,M47011,REG_A,"Anterior spinal artery compression syndromes, occipito-atlanto-axial region"
+icd10cm,M47021,REG_A,"Vertebral artery compression syndromes, occipito-atlanto-axial region"
+icd10cm,M4711,REG_A,"Other spondylosis with myelopathy, occipito-atlanto-axial region"
+icd10cm,M4721,REG_A,"Other spondylosis with radiculopathy, occipito-atlanto-axial region"
+icd10cm,M47811,REG_A,"Spondylosis without myelopathy or radiculopathy, occipito-atlanto-axial region"
+icd10cm,M47891,REG_A,"Other spondylosis, occipito-atlanto-axial region"
+icd10cm,M4801,REG_A,"Spinal stenosis, occipito-atlanto-axial region"
+icd10cm,M4811,REG_A,"Ankylosing hyperostosis [Forestier], occipito-atlanto-axial region"
+icd10cm,M4821,REG_A,"Kissing spine, occipito-atlanto-axial region"
+icd10cm,M4831,REG_A,"Traumatic spondylopathy, occipito-atlanto-axial region"
+icd10cm,M4841,REG_A,"Fatigue fracture of vertebra, occipito-atlanto-axial region"
+icd10cm,M4851,REG_A,"Collapsed vertebra, not elsewhere classified, occipito-atlanto-axial region"
+icd10cm,M488X1,REG_A,"Other specified spondylopathies, occipito-atlanto-axial region"
+icd10cm,M4981,REG_A,"Spondylopathy in diseases classified elsewhere, occipito-atlanto-axial region"
+icd10cm,M532X1,REG_A,"Spinal instabilities, occipito-atlanto-axial region"
+icd10cm,M5381,REG_A,"Other specified dorsopathies, occipito-atlanto-axial region"
+icd10cm,M5401,REG_A,"Panniculitis affecting regions of neck and back, occipito-atlanto-axial region"
+icd10cm,M5411,REG_A,"Radiculopathy, occipito-atlanto-axial region"
+icd10cm,Q76411,REG_A,"Congenital kyphosis, occipito-atlanto-axial region"
+icd10cm,S120,REG_A,Fracture of first cervical vertebra
+icd10cm,S121,REG_A,Fracture of second cervical vertebra
+icd10cm,S1311,REG_A,Subluxation and dislocation of C0/C1 cervical vertebrae
+icd10cm,S1312,REG_A,Subluxation and dislocation of C1/C2 cervical vertebrae
+icd10cm,S14101,REG_A,Unspecified injury at C1 level of cervical spinal cord
+icd10cm,S14102,REG_A,Unspecified injury at C2 level of cervical spinal cord
+icd10cm,S14111,REG_A,Complete lesion at C1 level of cervical spinal cord
+icd10cm,S14112,REG_A,Complete lesion at C2 level of cervical spinal cord
+icd10cm,S14121,REG_A,Central cord syndrome at C1 level of cervical spinal cord
+icd10cm,S14122,REG_A,Central cord syndrome at C2 level of cervical spinal cord
+icd10cm,S14131,REG_A,Anterior cord syndrome at C1 level of cervical spinal cord
+icd10cm,S14132,REG_A,Anterior cord syndrome at C2 level of cervical spinal cord
+icd10cm,S14141,REG_A,Brown-Séquard syndrome at C1 level of cervical spinal cord
+icd10cm,S14142,REG_A,Brown-Séquard syndrome at C2 level of cervical spinal cord
+icd10cm,S14151,REG_A,Other incomplete lesion at C1 level of cervical spinal cord
+icd10cm,S14152,REG_A,Other incomplete lesion at C2 level of cervical spinal cord
+icd10cm,G540,REG_C,Brachial plexus disorders
+icd10cm,G542,REG_C,"Cervical root disorders, not elsewhere classified"
+icd10cm,M4012,REG_C,"Other secondary kyphosis, cervical region"
+icd10cm,M40202,REG_C,"Unspecified kyphosis, cervical region"
+icd10cm,M40292,REG_C,"Other kyphosis, cervical region"
+icd10cm,M4102,REG_C,"Infantile idiopathic scoliosis, cervical region"
+icd10cm,M41112,REG_C,"Juvenile idiopathic scoliosis, cervical region"
+icd10cm,M41122,REG_C,"Adolescent idiopathic scoliosis, cervical region"
+icd10cm,M4122,REG_C,"Other idiopathic scoliosis, cervical region"
+icd10cm,M4142,REG_C,"Neuromuscular scoliosis, cervical region"
+icd10cm,M4152,REG_C,"Other secondary scoliosis, cervical region"
+icd10cm,M4182,REG_C,"Other forms of scoliosis, cervical region"
+icd10cm,M4202,REG_C,"Juvenile osteochondrosis of spine, cervical region"
+icd10cm,M4212,REG_C,"Adult osteochondrosis of spine, cervical region"
+icd10cm,M4302,REG_C,"Spondylolysis, cervical region"
+icd10cm,M4312,REG_C,"Spondylolisthesis, cervical region"
+icd10cm,M4322,REG_C,"Fusion of spine, cervical region"
+icd10cm,M435X2,REG_C,"Other recurrent vertebral dislocation, cervical region"
+icd10cm,M438X2,REG_C,"Other specified deforming dorsopathies, cervical region"
+icd10cm,M452,REG_C,Ankylosing spondylitis of cervical region
+icd10cm,M45A2,REG_C,Non-radiographic axial spondyloarthritis of cervical region
+icd10cm,M4602,REG_C,"Spinal enthesopathy, cervical region"
+icd10cm,M4622,REG_C,"Osteomyelitis of vertebra, cervical region"
+icd10cm,M4632,REG_C,"Infection of intervertebral disc (pyogenic), cervical region"
+icd10cm,M4642,REG_C,"Discitis, unspecified, cervical region"
+icd10cm,M4652,REG_C,"Other infective spondylopathies, cervical region"
+icd10cm,M4682,REG_C,"Other specified inflammatory spondylopathies, cervical region"
+icd10cm,M4692,REG_C,"Unspecified inflammatory spondylopathy, cervical region"
+icd10cm,M47012,REG_C,"Anterior spinal artery compression syndromes, cervical region"
+icd10cm,M47022,REG_C,"Vertebral artery compression syndromes, cervical region"
+icd10cm,M4712,REG_C,"Other spondylosis with myelopathy, cervical region"
+icd10cm,M4722,REG_C,"Other spondylosis with radiculopathy, cervical region"
+icd10cm,M47812,REG_C,"Spondylosis without myelopathy or radiculopathy, cervical region"
+icd10cm,M47892,REG_C,"Other spondylosis, cervical region"
+icd10cm,M4802,REG_C,"Spinal stenosis, cervical region"
+icd10cm,M4812,REG_C,"Ankylosing hyperostosis [Forestier], cervical region"
+icd10cm,M4822,REG_C,"Kissing spine, cervical region"
+icd10cm,M4832,REG_C,"Traumatic spondylopathy, cervical region"
+icd10cm,M4842,REG_C,"Fatigue fracture of vertebra, cervical region"
+icd10cm,M4852,REG_C,"Collapsed vertebra, not elsewhere classified, cervical region"
+icd10cm,M488X2,REG_C,"Other specified spondylopathies, cervical region"
+icd10cm,M4982,REG_C,"Spondylopathy in diseases classified elsewhere, cervical region"
+icd10cm,M5000,REG_C,"Cervical disc disorder with myelopathy, unspecified cervical region"
+icd10cm,M5001,REG_C,"Cervical disc disorder with myelopathy, high cervical region"
+icd10cm,M5002,REG_C,"Cervical disc disorder with myelopathy, mid-cervical region"
+icd10cm,M5010,REG_C,"Cervical disc disorder with radiculopathy, unspecified cervical region"
+icd10cm,M5011,REG_C,"Cervical disc disorder with radiculopathy, high cervical region"
+icd10cm,M5012,REG_C,"Cervical disc disorder with radiculopathy, mid-cervical region"
+icd10cm,M5020,REG_C,"Other cervical disc displacement, unspecified cervical region"
+icd10cm,M5021,REG_C,"Other cervical disc displacement, high cervical region"
+icd10cm,M5022,REG_C,"Other cervical disc displacement, mid-cervical region"
+icd10cm,M5030,REG_C,"Other cervical disc degeneration, unspecified cervical region"
+icd10cm,M5031,REG_C,"Other cervical disc degeneration, high cervical region"
+icd10cm,M5032,REG_C,"Other cervical disc degeneration, mid-cervical region"
+icd10cm,M5080,REG_C,"Other cervical disc disorders, unspecified cervical region"
+icd10cm,M5081,REG_C,"Other cervical disc disorders, high cervical region"
+icd10cm,M5082,REG_C,"Other cervical disc disorders, mid-cervical region"
+icd10cm,M5090,REG_C,"Cervical disc disorder, unspecified, unspecified cervical region"
+icd10cm,M5091,REG_C,"Cervical disc disorder, unspecified, high cervical region"
+icd10cm,M5092,REG_C,"Cervical disc disorder, unspecified, mid-cervical region"
+icd10cm,M530,REG_C,Cervicocranial syndrome
+icd10cm,M531,REG_C,Cervicobrachial syndrome
+icd10cm,M532X2,REG_C,"Spinal instabilities, cervical region"
+icd10cm,M5382,REG_C,"Other specified dorsopathies, cervical region"
+icd10cm,M5402,REG_C,"Panniculitis affecting regions of neck and back, cervical region"
+icd10cm,M5412,REG_C,"Radiculopathy, cervical region"
+icd10cm,M542,REG_C,Cervicalgia
+icd10cm,M9901,REG_C,Segmental and somatic dysfunction of cervical region
+icd10cm,M9911,REG_C,Subluxation complex (vertebral) of cervical region
+icd10cm,M9921,REG_C,Subluxation stenosis of neural canal of cervical region
+icd10cm,M9931,REG_C,Osseous stenosis of neural canal of cervical region
+icd10cm,M9941,REG_C,Connective tissue stenosis of neural canal of cervical region
+icd10cm,M9951,REG_C,Intervertebral disc stenosis of neural canal of cervical region
+icd10cm,M9961,REG_C,Osseous and subluxation stenosis of intervertebral foramina of cervical region
+icd10cm,M9971,REG_C,Connective tissue and disc stenosis of intervertebral foramina of cervical region
+icd10cm,M9981,REG_C,Other biomechanical lesions of cervical region
+icd10cm,Q050,REG_C,Cervical spina bifida with hydrocephalus
+icd10cm,Q055,REG_C,Cervical spina bifida without hydrocephalus
+icd10cm,Q76412,REG_C,"Congenital kyphosis, cervical region"
+icd10cm,S122,REG_C,Fracture of third cervical vertebra
+icd10cm,S123,REG_C,Fracture of fourth cervical vertebra
+icd10cm,S124,REG_C,Fracture of fifth cervical vertebra
+icd10cm,S125,REG_C,Fracture of sixth cervical vertebra
+icd10cm,S129,REG_C,"Fracture of neck, unspecified"
+icd10cm,S130,REG_C,Traumatic rupture of cervical intervertebral disc
+icd10cm,S1310,REG_C,Subluxation and dislocation of unspecified cervical vertebrae
+icd10cm,S1313,REG_C,Subluxation and dislocation of C2/C3 cervical vertebrae
+icd10cm,S1314,REG_C,Subluxation and dislocation of C3/C4 cervical vertebrae
+icd10cm,S1315,REG_C,Subluxation and dislocation of C4/C5 cervical vertebrae
+icd10cm,S1316,REG_C,Subluxation and dislocation of C5/C6 cervical vertebrae
+icd10cm,S1317,REG_C,Subluxation and dislocation of C6/C7 cervical vertebrae
+icd10cm,S132,REG_C,Dislocation of other and unspecified parts of neck
+icd10cm,S134,REG_C,Sprain of ligaments of cervical spine
+icd10cm,S138,REG_C,Sprain of joints and ligaments of other parts of neck
+icd10cm,S139,REG_C,Sprain of joints and ligaments of unspecified parts of neck
+icd10cm,S140,REG_C,Concussion and edema of cervical spinal cord
+icd10cm,S14103,REG_C,Unspecified injury at C3 level of cervical spinal cord
+icd10cm,S14104,REG_C,Unspecified injury at C4 level of cervical spinal cord
+icd10cm,S14105,REG_C,Unspecified injury at C5 level of cervical spinal cord
+icd10cm,S14106,REG_C,Unspecified injury at C6 level of cervical spinal cord
+icd10cm,S14107,REG_C,Unspecified injury at C7 level of cervical spinal cord
+icd10cm,S14109,REG_C,Unspecified injury at unspecified level of cervical spinal cord
+icd10cm,S14113,REG_C,Complete lesion at C3 level of cervical spinal cord
+icd10cm,S14114,REG_C,Complete lesion at C4 level of cervical spinal cord
+icd10cm,S14115,REG_C,Complete lesion at C5 level of cervical spinal cord
+icd10cm,S14116,REG_C,Complete lesion at C6 level of cervical spinal cord
+icd10cm,S14117,REG_C,Complete lesion at C7 level of cervical spinal cord
+icd10cm,S14119,REG_C,Complete lesion at unspecified level of cervical spinal cord
+icd10cm,S14123,REG_C,Central cord syndrome at C3 level of cervical spinal cord
+icd10cm,S14124,REG_C,Central cord syndrome at C4 level of cervical spinal cord
+icd10cm,S14125,REG_C,Central cord syndrome at C5 level of cervical spinal cord
+icd10cm,S14126,REG_C,Central cord syndrome at C6 level of cervical spinal cord
+icd10cm,S14127,REG_C,Central cord syndrome at C7 level of cervical spinal cord
+icd10cm,S14129,REG_C,Central cord syndrome at unspecified level of cervical spinal cord
+icd10cm,S14133,REG_C,Anterior cord syndrome at C3 level of cervical spinal cord
+icd10cm,S14134,REG_C,Anterior cord syndrome at C4 level of cervical spinal cord
+icd10cm,S14135,REG_C,Anterior cord syndrome at C5 level of cervical spinal cord
+icd10cm,S14136,REG_C,Anterior cord syndrome at C6 level of cervical spinal cord
+icd10cm,S14137,REG_C,Anterior cord syndrome at C7 level of cervical spinal cord
+icd10cm,S14139,REG_C,Anterior cord syndrome at unspecified level of cervical spinal cord
+icd10cm,S14143,REG_C,Brown-Séquard syndrome at C3 level of cervical spinal cord
+icd10cm,S14144,REG_C,Brown-Séquard syndrome at C4 level of cervical spinal cord
+icd10cm,S14145,REG_C,Brown-Séquard syndrome at C5 level of cervical spinal cord
+icd10cm,S14146,REG_C,Brown-Séquard syndrome at C6 level of cervical spinal cord
+icd10cm,S14147,REG_C,Brown-Séquard syndrome at C7 level of cervical spinal cord
+icd10cm,S14149,REG_C,Brown-Séquard syndrome at unspecified level of cervical spinal cord
+icd10cm,S14153,REG_C,Other incomplete lesion at C3 level of cervical spinal cord
+icd10cm,S14154,REG_C,Other incomplete lesion at C4 level of cervical spinal cord
+icd10cm,S14155,REG_C,Other incomplete lesion at C5 level of cervical spinal cord
+icd10cm,S14156,REG_C,Other incomplete lesion at C6 level of cervical spinal cord
+icd10cm,S14157,REG_C,Other incomplete lesion at C7 level of cervical spinal cord
+icd10cm,S14159,REG_C,Other incomplete lesion at unspecified level of cervical spinal cord
+icd10cm,S142,REG_C,Injury of nerve root of cervical spine
+icd10cm,S143,REG_C,Injury of brachial plexus
+icd10cm,S144,REG_C,Injury of peripheral nerves of neck
+icd10cm,S145,REG_C,Injury of cervical sympathetic nerves
+icd10cm,S148,REG_C,Injury of other specified nerves of neck
+icd10cm,S149,REG_C,Injury of unspecified nerves of neck
+icd10cm,S161,REG_C,"Strain of muscle, fascia and tendon at neck level"
+icd10cm,S199,REG_C,Unspecified injury of neck
+icd10cm,M4003,REG_CT,"Postural kyphosis, cervicothoracic region"
+icd10cm,M4013,REG_CT,"Other secondary kyphosis, cervicothoracic region"
+icd10cm,M40203,REG_CT,"Unspecified kyphosis, cervicothoracic region"
+icd10cm,M40293,REG_CT,"Other kyphosis, cervicothoracic region"
+icd10cm,M4103,REG_CT,"Infantile idiopathic scoliosis, cervicothoracic region"
+icd10cm,M41113,REG_CT,"Juvenile idiopathic scoliosis, cervicothoracic region"
+icd10cm,M41123,REG_CT,"Adolescent idiopathic scoliosis, cervicothoracic region"
+icd10cm,M4123,REG_CT,"Other idiopathic scoliosis, cervicothoracic region"
+icd10cm,M4143,REG_CT,"Neuromuscular scoliosis, cervicothoracic region"
+icd10cm,M4153,REG_CT,"Other secondary scoliosis, cervicothoracic region"
+icd10cm,M4183,REG_CT,"Other forms of scoliosis, cervicothoracic region"
+icd10cm,M4203,REG_CT,"Juvenile osteochondrosis of spine, cervicothoracic region"
+icd10cm,M4213,REG_CT,"Adult osteochondrosis of spine, cervicothoracic region"
+icd10cm,M4303,REG_CT,"Spondylolysis, cervicothoracic region"
+icd10cm,M4313,REG_CT,"Spondylolisthesis, cervicothoracic region"
+icd10cm,M4323,REG_CT,"Fusion of spine, cervicothoracic region"
+icd10cm,M435X3,REG_CT,"Other recurrent vertebral dislocation, cervicothoracic region"
+icd10cm,M438X3,REG_CT,"Other specified deforming dorsopathies, cervicothoracic region"
+icd10cm,M453,REG_CT,Ankylosing spondylitis of cervicothoracic region
+icd10cm,M45A3,REG_CT,Non-radiographic axial spondyloarthritis of cervicothoracic region
+icd10cm,M4603,REG_CT,"Spinal enthesopathy, cervicothoracic region"
+icd10cm,M4623,REG_CT,"Osteomyelitis of vertebra, cervicothoracic region"
+icd10cm,M4633,REG_CT,"Infection of intervertebral disc (pyogenic), cervicothoracic region"
+icd10cm,M4643,REG_CT,"Discitis, unspecified, cervicothoracic region"
+icd10cm,M4653,REG_CT,"Other infective spondylopathies, cervicothoracic region"
+icd10cm,M4683,REG_CT,"Other specified inflammatory spondylopathies, cervicothoracic region"
+icd10cm,M4693,REG_CT,"Unspecified inflammatory spondylopathy, cervicothoracic region"
+icd10cm,M47013,REG_CT,"Anterior spinal artery compression syndromes, cervicothoracic region"
+icd10cm,M4713,REG_CT,"Other spondylosis with myelopathy, cervicothoracic region"
+icd10cm,M4723,REG_CT,"Other spondylosis with radiculopathy, cervicothoracic region"
+icd10cm,M47813,REG_CT,"Spondylosis without myelopathy or radiculopathy, cervicothoracic region"
+icd10cm,M47893,REG_CT,"Other spondylosis, cervicothoracic region"
+icd10cm,M4803,REG_CT,"Spinal stenosis, cervicothoracic region"
+icd10cm,M4813,REG_CT,"Ankylosing hyperostosis [Forestier], cervicothoracic region"
+icd10cm,M4823,REG_CT,"Kissing spine, cervicothoracic region"
+icd10cm,M4833,REG_CT,"Traumatic spondylopathy, cervicothoracic region"
+icd10cm,M4843,REG_CT,"Fatigue fracture of vertebra, cervicothoracic region"
+icd10cm,M4853,REG_CT,"Collapsed vertebra, not elsewhere classified, cervicothoracic region"
+icd10cm,M488X3,REG_CT,"Other specified spondylopathies, cervicothoracic region"
+icd10cm,M4983,REG_CT,"Spondylopathy in diseases classified elsewhere, cervicothoracic region"
+icd10cm,M5003,REG_CT,"Cervical disc disorder with myelopathy, cervicothoracic region"
+icd10cm,M5013,REG_CT,"Cervical disc disorder with radiculopathy, cervicothoracic region"
+icd10cm,M5023,REG_CT,"Other cervical disc displacement, cervicothoracic region"
+icd10cm,M5033,REG_CT,"Other cervical disc degeneration, cervicothoracic region"
+icd10cm,M5083,REG_CT,"Other cervical disc disorders, cervicothoracic region"
+icd10cm,M5093,REG_CT,"Cervical disc disorder, unspecified, cervicothoracic region"
+icd10cm,M532X3,REG_CT,"Spinal instabilities, cervicothoracic region"
+icd10cm,M5383,REG_CT,"Other specified dorsopathies, cervicothoracic region"
+icd10cm,M5403,REG_CT,"Panniculitis affecting regions of neck and back, cervicothoracic region"
+icd10cm,M5413,REG_CT,"Radiculopathy, cervicothoracic region"
+icd10cm,Q76413,REG_CT,"Congenital kyphosis, cervicothoracic region"
+icd10cm,S126,REG_CT,Fracture of seventh cervical vertebra
+icd10cm,S1318,REG_CT,Subluxation and dislocation of C7/T1 cervical vertebrae
+icd10cm,S14108,REG_CT,Unspecified injury at C8 level of cervical spinal cord
+icd10cm,S14118,REG_CT,Complete lesion at C8 level of cervical spinal cord
+icd10cm,S14128,REG_CT,Central cord syndrome at C8 level of cervical spinal cord
+icd10cm,S14138,REG_CT,Anterior cord syndrome at C8 level of cervical spinal cord
+icd10cm,S14148,REG_CT,Brown-Séquard syndrome at C8 level of cervical spinal cord
+icd10cm,S14158,REG_CT,Other incomplete lesion at C8 level of cervical spinal cord
+icd10cm,G543,REG_T,"Thoracic root disorders, not elsewhere classified"
+icd10cm,M4004,REG_T,"Postural kyphosis, thoracic region"
+icd10cm,M4014,REG_T,"Other secondary kyphosis, thoracic region"
+icd10cm,M40204,REG_T,"Unspecified kyphosis, thoracic region"
+icd10cm,M40294,REG_T,"Other kyphosis, thoracic region"
+icd10cm,M4104,REG_T,"Infantile idiopathic scoliosis, thoracic region"
+icd10cm,M41114,REG_T,"Juvenile idiopathic scoliosis, thoracic region"
+icd10cm,M41124,REG_T,"Adolescent idiopathic scoliosis, thoracic region"
+icd10cm,M4124,REG_T,"Other idiopathic scoliosis, thoracic region"
+icd10cm,M4134,REG_T,"Thoracogenic scoliosis, thoracic region"
+icd10cm,M4144,REG_T,"Neuromuscular scoliosis, thoracic region"
+icd10cm,M4154,REG_T,"Other secondary scoliosis, thoracic region"
+icd10cm,M4184,REG_T,"Other forms of scoliosis, thoracic region"
+icd10cm,M4204,REG_T,"Juvenile osteochondrosis of spine, thoracic region"
+icd10cm,M4214,REG_T,"Adult osteochondrosis of spine, thoracic region"
+icd10cm,M4304,REG_T,"Spondylolysis, thoracic region"
+icd10cm,M4314,REG_T,"Spondylolisthesis, thoracic region"
+icd10cm,M4324,REG_T,"Fusion of spine, thoracic region"
+icd10cm,M435X4,REG_T,"Other recurrent vertebral dislocation, thoracic region"
+icd10cm,M438X4,REG_T,"Other specified deforming dorsopathies, thoracic region"
+icd10cm,M454,REG_T,Ankylosing spondylitis of thoracic region
+icd10cm,M45A4,REG_T,Non-radiographic axial spondyloarthritis of thoracic region
+icd10cm,M4604,REG_T,"Spinal enthesopathy, thoracic region"
+icd10cm,M4624,REG_T,"Osteomyelitis of vertebra, thoracic region"
+icd10cm,M4634,REG_T,"Infection of intervertebral disc (pyogenic), thoracic region"
+icd10cm,M4644,REG_T,"Discitis, unspecified, thoracic region"
+icd10cm,M4654,REG_T,"Other infective spondylopathies, thoracic region"
+icd10cm,M4684,REG_T,"Other specified inflammatory spondylopathies, thoracic region"
+icd10cm,M4694,REG_T,"Unspecified inflammatory spondylopathy, thoracic region"
+icd10cm,M47014,REG_T,"Anterior spinal artery compression syndromes, thoracic region"
+icd10cm,M4714,REG_T,"Other spondylosis with myelopathy, thoracic region"
+icd10cm,M4724,REG_T,"Other spondylosis with radiculopathy, thoracic region"
+icd10cm,M47814,REG_T,"Spondylosis without myelopathy or radiculopathy, thoracic region"
+icd10cm,M47894,REG_T,"Other spondylosis, thoracic region"
+icd10cm,M4804,REG_T,"Spinal stenosis, thoracic region"
+icd10cm,M4814,REG_T,"Ankylosing hyperostosis [Forestier], thoracic region"
+icd10cm,M4824,REG_T,"Kissing spine, thoracic region"
+icd10cm,M4834,REG_T,"Traumatic spondylopathy, thoracic region"
+icd10cm,M4844,REG_T,"Fatigue fracture of vertebra, thoracic region"
+icd10cm,M4854,REG_T,"Collapsed vertebra, not elsewhere classified, thoracic region"
+icd10cm,M488X4,REG_T,"Other specified spondylopathies, thoracic region"
+icd10cm,M4984,REG_T,"Spondylopathy in diseases classified elsewhere, thoracic region"
+icd10cm,M5104,REG_T,"Intervertebral disc disorders with myelopathy, thoracic region"
+icd10cm,M5114,REG_T,"Intervertebral disc disorders with radiculopathy, thoracic region"
+icd10cm,M5124,REG_T,"Other intervertebral disc displacement, thoracic region"
+icd10cm,M5134,REG_T,"Other intervertebral disc degeneration, thoracic region"
+icd10cm,M5144,REG_T,"Schmorl's nodes, thoracic region"
+icd10cm,M5184,REG_T,"Other intervertebral disc disorders, thoracic region"
+icd10cm,M532X4,REG_T,"Spinal instabilities, thoracic region"
+icd10cm,M5384,REG_T,"Other specified dorsopathies, thoracic region"
+icd10cm,M5404,REG_T,"Panniculitis affecting regions of neck and back, thoracic region"
+icd10cm,M5414,REG_T,"Radiculopathy, thoracic region"
+icd10cm,M546,REG_T,Pain in thoracic spine
+icd10cm,M9902,REG_T,Segmental and somatic dysfunction of thoracic region
+icd10cm,M9912,REG_T,Subluxation complex (vertebral) of thoracic region
+icd10cm,M9922,REG_T,Subluxation stenosis of neural canal of thoracic region
+icd10cm,M9932,REG_T,Osseous stenosis of neural canal of thoracic region
+icd10cm,M9942,REG_T,Connective tissue stenosis of neural canal of thoracic region
+icd10cm,M9952,REG_T,Intervertebral disc stenosis of neural canal of thoracic region
+icd10cm,M9962,REG_T,Osseous and subluxation stenosis of intervertebral foramina of thoracic region
+icd10cm,M9972,REG_T,Connective tissue and disc stenosis of intervertebral foramina of thoracic region
+icd10cm,M9982,REG_T,Other biomechanical lesions of thoracic region
+icd10cm,Q051,REG_T,Thoracic spina bifida with hydrocephalus
+icd10cm,Q056,REG_T,Thoracic spina bifida without hydrocephalus
+icd10cm,Q76414,REG_T,"Congenital kyphosis, thoracic region"
+icd10cm,S220,REG_T,Fracture of thoracic vertebra
+icd10cm,S230,REG_T,Traumatic rupture of thoracic intervertebral disc
+icd10cm,S2310,REG_T,Subluxation and dislocation of unspecified thoracic vertebra
+icd10cm,S2311,REG_T,Subluxation and dislocation of T1/T2 thoracic vertebra
+icd10cm,S2312,REG_T,Subluxation and dislocation of T2/T3-T3/T4 thoracic vertebra
+icd10cm,S2313,REG_T,Subluxation and dislocation of T4/T5-T5/T6 thoracic vertebra
+icd10cm,S2314,REG_T,Subluxation and dislocation of T6/T7-T7/T8 thoracic vertebra
+icd10cm,S2315,REG_T,Subluxation and dislocation of T8/T9-T9/T10 thoracic vertebra
+icd10cm,S2316,REG_T,Subluxation and dislocation of T10/T11-T11/T12 thoracic vertebra
+icd10cm,S233,REG_T,Sprain of ligaments of thoracic spine
+icd10cm,S240,REG_T,Concussion and edema of thoracic spinal cord
+icd10cm,S241,REG_T,Other and unspecified injuries of thoracic spinal cord
+icd10cm,S242,REG_T,Injury of nerve root of thoracic spine
+icd10cm,S29002,REG_T,Unspecified injury of muscle and tendon of back wall of thorax
+icd10cm,S29012,REG_T,Strain of muscle and tendon of back wall of thorax
+icd10cm,S29092,REG_T,Other injury of muscle and tendon of back wall of thorax
+icd10cm,M4005,REG_TL,"Postural kyphosis, thoracolumbar region"
+icd10cm,M4015,REG_TL,"Other secondary kyphosis, thoracolumbar region"
+icd10cm,M40205,REG_TL,"Unspecified kyphosis, thoracolumbar region"
+icd10cm,M40295,REG_TL,"Other kyphosis, thoracolumbar region"
+icd10cm,M4035,REG_TL,"Flatback syndrome, thoracolumbar region"
+icd10cm,M4045,REG_TL,"Postural lordosis, thoracolumbar region"
+icd10cm,M4055,REG_TL,"Lordosis, unspecified, thoracolumbar region"
+icd10cm,M4105,REG_TL,"Infantile idiopathic scoliosis, thoracolumbar region"
+icd10cm,M41115,REG_TL,"Juvenile idiopathic scoliosis, thoracolumbar region"
+icd10cm,M41125,REG_TL,"Adolescent idiopathic scoliosis, thoracolumbar region"
+icd10cm,M4125,REG_TL,"Other idiopathic scoliosis, thoracolumbar region"
+icd10cm,M4135,REG_TL,"Thoracogenic scoliosis, thoracolumbar region"
+icd10cm,M4145,REG_TL,"Neuromuscular scoliosis, thoracolumbar region"
+icd10cm,M4155,REG_TL,"Other secondary scoliosis, thoracolumbar region"
+icd10cm,M4185,REG_TL,"Other forms of scoliosis, thoracolumbar region"
+icd10cm,M4205,REG_TL,"Juvenile osteochondrosis of spine, thoracolumbar region"
+icd10cm,M4215,REG_TL,"Adult osteochondrosis of spine, thoracolumbar region"
+icd10cm,M4305,REG_TL,"Spondylolysis, thoracolumbar region"
+icd10cm,M4315,REG_TL,"Spondylolisthesis, thoracolumbar region"
+icd10cm,M4325,REG_TL,"Fusion of spine, thoracolumbar region"
+icd10cm,M435X5,REG_TL,"Other recurrent vertebral dislocation, thoracolumbar region"
+icd10cm,M438X5,REG_TL,"Other specified deforming dorsopathies, thoracolumbar region"
+icd10cm,M455,REG_TL,Ankylosing spondylitis of thoracolumbar region
+icd10cm,M45A5,REG_TL,Non-radiographic axial spondyloarthritis of thoracolumbar region
+icd10cm,M4605,REG_TL,"Spinal enthesopathy, thoracolumbar region"
+icd10cm,M4625,REG_TL,"Osteomyelitis of vertebra, thoracolumbar region"
+icd10cm,M4635,REG_TL,"Infection of intervertebral disc (pyogenic), thoracolumbar region"
+icd10cm,M4645,REG_TL,"Discitis, unspecified, thoracolumbar region"
+icd10cm,M4655,REG_TL,"Other infective spondylopathies, thoracolumbar region"
+icd10cm,M4685,REG_TL,"Other specified inflammatory spondylopathies, thoracolumbar region"
+icd10cm,M4695,REG_TL,"Unspecified inflammatory spondylopathy, thoracolumbar region"
+icd10cm,M47015,REG_TL,"Anterior spinal artery compression syndromes, thoracolumbar region"
+icd10cm,M4715,REG_TL,"Other spondylosis with myelopathy, thoracolumbar region"
+icd10cm,M4725,REG_TL,"Other spondylosis with radiculopathy, thoracolumbar region"
+icd10cm,M47815,REG_TL,"Spondylosis without myelopathy or radiculopathy, thoracolumbar region"
+icd10cm,M47895,REG_TL,"Other spondylosis, thoracolumbar region"
+icd10cm,M4805,REG_TL,"Spinal stenosis, thoracolumbar region"
+icd10cm,M4815,REG_TL,"Ankylosing hyperostosis [Forestier], thoracolumbar region"
+icd10cm,M4825,REG_TL,"Kissing spine, thoracolumbar region"
+icd10cm,M4835,REG_TL,"Traumatic spondylopathy, thoracolumbar region"
+icd10cm,M4845,REG_TL,"Fatigue fracture of vertebra, thoracolumbar region"
+icd10cm,M4855,REG_TL,"Collapsed vertebra, not elsewhere classified, thoracolumbar region"
+icd10cm,M488X5,REG_TL,"Other specified spondylopathies, thoracolumbar region"
+icd10cm,M4985,REG_TL,"Spondylopathy in diseases classified elsewhere, thoracolumbar region"
+icd10cm,M5105,REG_TL,"Intervertebral disc disorders with myelopathy, thoracolumbar region"
+icd10cm,M5115,REG_TL,"Intervertebral disc disorders with radiculopathy, thoracolumbar region"
+icd10cm,M5125,REG_TL,"Other intervertebral disc displacement, thoracolumbar region"
+icd10cm,M5135,REG_TL,"Other intervertebral disc degeneration, thoracolumbar region"
+icd10cm,M5145,REG_TL,"Schmorl's nodes, thoracolumbar region"
+icd10cm,M5185,REG_TL,"Other intervertebral disc disorders, thoracolumbar region"
+icd10cm,M532X5,REG_TL,"Spinal instabilities, thoracolumbar region"
+icd10cm,M5385,REG_TL,"Other specified dorsopathies, thoracolumbar region"
+icd10cm,M5405,REG_TL,"Panniculitis affecting regions of neck and back, thoracolumbar region"
+icd10cm,M5415,REG_TL,"Radiculopathy, thoracolumbar region"
+icd10cm,Q76415,REG_TL,"Congenital kyphosis, thoracolumbar region"
+icd10cm,Q76425,REG_TL,"Congenital lordosis, thoracolumbar region"
+icd10cm,S2317,REG_TL,Subluxation and dislocation of T12/L1 thoracic vertebra
+icd10cm,C721,REG_L,Malignant neoplasm of cauda equina
+icd10cm,M4036,REG_L,"Flatback syndrome, lumbar region"
+icd10cm,M4046,REG_L,"Postural lordosis, lumbar region"
+icd10cm,M4056,REG_L,"Lordosis, unspecified, lumbar region"
+icd10cm,M4106,REG_L,"Infantile idiopathic scoliosis, lumbar region"
+icd10cm,M41116,REG_L,"Juvenile idiopathic scoliosis, lumbar region"
+icd10cm,M41126,REG_L,"Adolescent idiopathic scoliosis, lumbar region"
+icd10cm,M4126,REG_L,"Other idiopathic scoliosis, lumbar region"
+icd10cm,M4146,REG_L,"Neuromuscular scoliosis, lumbar region"
+icd10cm,M4156,REG_L,"Other secondary scoliosis, lumbar region"
+icd10cm,M4186,REG_L,"Other forms of scoliosis, lumbar region"
+icd10cm,M4206,REG_L,"Juvenile osteochondrosis of spine, lumbar region"
+icd10cm,M4216,REG_L,"Adult osteochondrosis of spine, lumbar region"
+icd10cm,M4306,REG_L,"Spondylolysis, lumbar region"
+icd10cm,M4316,REG_L,"Spondylolisthesis, lumbar region"
+icd10cm,M4326,REG_L,"Fusion of spine, lumbar region"
+icd10cm,M435X6,REG_L,"Other recurrent vertebral dislocation, lumbar region"
+icd10cm,M438X6,REG_L,"Other specified deforming dorsopathies, lumbar region"
+icd10cm,M456,REG_L,Ankylosing spondylitis lumbar region
+icd10cm,M45A6,REG_L,Non-radiographic axial spondyloarthritis of lumbar region
+icd10cm,M4606,REG_L,"Spinal enthesopathy, lumbar region"
+icd10cm,M4626,REG_L,"Osteomyelitis of vertebra, lumbar region"
+icd10cm,M4636,REG_L,"Infection of intervertebral disc (pyogenic), lumbar region"
+icd10cm,M4646,REG_L,"Discitis, unspecified, lumbar region"
+icd10cm,M4656,REG_L,"Other infective spondylopathies, lumbar region"
+icd10cm,M4686,REG_L,"Other specified inflammatory spondylopathies, lumbar region"
+icd10cm,M4696,REG_L,"Unspecified inflammatory spondylopathy, lumbar region"
+icd10cm,M47016,REG_L,"Anterior spinal artery compression syndromes, lumbar region"
+icd10cm,M4716,REG_L,"Other spondylosis with myelopathy, lumbar region"
+icd10cm,M4726,REG_L,"Other spondylosis with radiculopathy, lumbar region"
+icd10cm,M47816,REG_L,"Spondylosis without myelopathy or radiculopathy, lumbar region"
+icd10cm,M47896,REG_L,"Other spondylosis, lumbar region"
+icd10cm,M4806,REG_L,"Spinal stenosis, lumbar region"
+icd10cm,M4816,REG_L,"Ankylosing hyperostosis [Forestier], lumbar region"
+icd10cm,M4826,REG_L,"Kissing spine, lumbar region"
+icd10cm,M4836,REG_L,"Traumatic spondylopathy, lumbar region"
+icd10cm,M4846,REG_L,"Fatigue fracture of vertebra, lumbar region"
+icd10cm,M4856,REG_L,"Collapsed vertebra, not elsewhere classified, lumbar region"
+icd10cm,M488X6,REG_L,"Other specified spondylopathies, lumbar region"
+icd10cm,M4986,REG_L,"Spondylopathy in diseases classified elsewhere, lumbar region"
+icd10cm,M5106,REG_L,"Intervertebral disc disorders with myelopathy, lumbar region"
+icd10cm,M5116,REG_L,"Intervertebral disc disorders with radiculopathy, lumbar region"
+icd10cm,M5126,REG_L,"Other intervertebral disc displacement, lumbar region"
+icd10cm,M5136,REG_L,"Other intervertebral disc degeneration, lumbar region"
+icd10cm,M5146,REG_L,"Schmorl's nodes, lumbar region"
+icd10cm,M5186,REG_L,"Other intervertebral disc disorders, lumbar region"
+icd10cm,M51A0,REG_L,"Intervertebral annulus fibrosus defect, lumbar region, unspecified size"
+icd10cm,M51A1,REG_L,"Intervertebral annulus fibrosus defect, small, lumbar region"
+icd10cm,M51A2,REG_L,"Intervertebral annulus fibrosus defect, large, lumbar region"
+icd10cm,M532X6,REG_L,"Spinal instabilities, lumbar region"
+icd10cm,M5386,REG_L,"Other specified dorsopathies, lumbar region"
+icd10cm,M5406,REG_L,"Panniculitis affecting regions of neck and back, lumbar region"
+icd10cm,M5416,REG_L,"Radiculopathy, lumbar region"
+icd10cm,M544,REG_L,Lumbago with sciatica
+icd10cm,M545,REG_L,Low back pain
+icd10cm,M9903,REG_L,Segmental and somatic dysfunction of lumbar region
+icd10cm,M9913,REG_L,Subluxation complex (vertebral) of lumbar region
+icd10cm,M9923,REG_L,Subluxation stenosis of neural canal of lumbar region
+icd10cm,M9933,REG_L,Osseous stenosis of neural canal of lumbar region
+icd10cm,M9943,REG_L,Connective tissue stenosis of neural canal of lumbar region
+icd10cm,M9953,REG_L,Intervertebral disc stenosis of neural canal of lumbar region
+icd10cm,M9963,REG_L,Osseous and subluxation stenosis of intervertebral foramina of lumbar region
+icd10cm,M9973,REG_L,Connective tissue and disc stenosis of intervertebral foramina of lumbar region
+icd10cm,M9983,REG_L,Other biomechanical lesions of lumbar region
+icd10cm,Q052,REG_L,Lumbar spina bifida with hydrocephalus
+icd10cm,Q057,REG_L,Lumbar spina bifida without hydrocephalus
+icd10cm,Q76426,REG_L,"Congenital lordosis, lumbar region"
+icd10cm,S320,REG_L,Fracture of lumbar vertebra
+icd10cm,S330,REG_L,Traumatic rupture of lumbar intervertebral disc
+icd10cm,S331,REG_L,Subluxation and dislocation of lumbar vertebra
+icd10cm,S333,REG_L,Dislocation of other and unspecified parts of lumbar spine and pelvis
+icd10cm,S335,REG_L,Sprain of ligaments of lumbar spine
+icd10cm,S338,REG_L,Sprain of other parts of lumbar spine and pelvis
+icd10cm,S339,REG_L,Sprain of unspecified parts of lumbar spine and pelvis
+icd10cm,S3401,REG_L,Concussion and edema of lumbar spinal cord
+icd10cm,S3410,REG_L,Unspecified injury to lumbar spinal cord
+icd10cm,S3411,REG_L,Complete lesion of lumbar spinal cord
+icd10cm,S3412,REG_L,Incomplete lesion of lumbar spinal cord
+icd10cm,S3421,REG_L,Injury of nerve root of lumbar spine
+icd10cm,S343,REG_L,Injury of cauda equina
+icd10cm,S39002,REG_L,"Unspecified injury of muscle, fascia and tendon of lower back"
+icd10cm,S39012,REG_L,"Strain of muscle, fascia and tendon of lower back"
+icd10cm,S39092,REG_L,"Other injury of muscle, fascia and tendon of lower back"
+icd10cm,S3982,REG_L,Other specified injuries of lower back
+icd10cm,S3992,REG_L,Unspecified injury of lower back
+icd10cm,G541,REG_LS,Lumbosacral plexus disorders
+icd10cm,G544,REG_LS,"Lumbosacral root disorders, not elsewhere classified"
+icd10cm,M4037,REG_LS,"Flatback syndrome, lumbosacral region"
+icd10cm,M4047,REG_LS,"Postural lordosis, lumbosacral region"
+icd10cm,M4057,REG_LS,"Lordosis, unspecified, lumbosacral region"
+icd10cm,M4107,REG_LS,"Infantile idiopathic scoliosis, lumbosacral region"
+icd10cm,M41117,REG_LS,"Juvenile idiopathic scoliosis, lumbosacral region"
+icd10cm,M41127,REG_LS,"Adolescent idiopathic scoliosis, lumbosacral region"
+icd10cm,M4127,REG_LS,"Other idiopathic scoliosis, lumbosacral region"
+icd10cm,M4147,REG_LS,"Neuromuscular scoliosis, lumbosacral region"
+icd10cm,M4157,REG_LS,"Other secondary scoliosis, lumbosacral region"
+icd10cm,M4187,REG_LS,"Other forms of scoliosis, lumbosacral region"
+icd10cm,M4207,REG_LS,"Juvenile osteochondrosis of spine, lumbosacral region"
+icd10cm,M4217,REG_LS,"Adult osteochondrosis of spine, lumbosacral region"
+icd10cm,M4307,REG_LS,"Spondylolysis, lumbosacral region"
+icd10cm,M4317,REG_LS,"Spondylolisthesis, lumbosacral region"
+icd10cm,M4327,REG_LS,"Fusion of spine, lumbosacral region"
+icd10cm,M435X7,REG_LS,"Other recurrent vertebral dislocation, lumbosacral region"
+icd10cm,M438X7,REG_LS,"Other specified deforming dorsopathies, lumbosacral region"
+icd10cm,M457,REG_LS,Ankylosing spondylitis of lumbosacral region
+icd10cm,M45A7,REG_LS,Non-radiographic axial spondyloarthritis of lumbosacral region
+icd10cm,M4607,REG_LS,"Spinal enthesopathy, lumbosacral region"
+icd10cm,M4627,REG_LS,"Osteomyelitis of vertebra, lumbosacral region"
+icd10cm,M4637,REG_LS,"Infection of intervertebral disc (pyogenic), lumbosacral region"
+icd10cm,M4647,REG_LS,"Discitis, unspecified, lumbosacral region"
+icd10cm,M4657,REG_LS,"Other infective spondylopathies, lumbosacral region"
+icd10cm,M4687,REG_LS,"Other specified inflammatory spondylopathies, lumbosacral region"
+icd10cm,M4697,REG_LS,"Unspecified inflammatory spondylopathy, lumbosacral region"
+icd10cm,M4727,REG_LS,"Other spondylosis with radiculopathy, lumbosacral region"
+icd10cm,M47817,REG_LS,"Spondylosis without myelopathy or radiculopathy, lumbosacral region"
+icd10cm,M47897,REG_LS,"Other spondylosis, lumbosacral region"
+icd10cm,M4807,REG_LS,"Spinal stenosis, lumbosacral region"
+icd10cm,M4817,REG_LS,"Ankylosing hyperostosis [Forestier], lumbosacral region"
+icd10cm,M4827,REG_LS,"Kissing spine, lumbosacral region"
+icd10cm,M4837,REG_LS,"Traumatic spondylopathy, lumbosacral region"
+icd10cm,M4847,REG_LS,"Fatigue fracture of vertebra, lumbosacral region"
+icd10cm,M4857,REG_LS,"Collapsed vertebra, not elsewhere classified, lumbosacral region"
+icd10cm,M488X7,REG_LS,"Other specified spondylopathies, lumbosacral region"
+icd10cm,M4987,REG_LS,"Spondylopathy in diseases classified elsewhere, lumbosacral region"
+icd10cm,M5117,REG_LS,"Intervertebral disc disorders with radiculopathy, lumbosacral region"
+icd10cm,M5127,REG_LS,"Other intervertebral disc displacement, lumbosacral region"
+icd10cm,M5137,REG_LS,"Other intervertebral disc degeneration, lumbosacral region"
+icd10cm,M5147,REG_LS,"Schmorl's nodes, lumbosacral region"
+icd10cm,M5187,REG_LS,"Other intervertebral disc disorders, lumbosacral region"
+icd10cm,M51A3,REG_LS,"Intervertebral annulus fibrosus defect, lumbosacral region, unspecified size"
+icd10cm,M51A4,REG_LS,"Intervertebral annulus fibrosus defect, small, lumbosacral region"
+icd10cm,M51A5,REG_LS,"Intervertebral annulus fibrosus defect, large, lumbosacral region"
+icd10cm,M532X7,REG_LS,"Spinal instabilities, lumbosacral region"
+icd10cm,M5387,REG_LS,"Other specified dorsopathies, lumbosacral region"
+icd10cm,M5407,REG_LS,"Panniculitis affecting regions of neck and back, lumbosacral region"
+icd10cm,M5417,REG_LS,"Radiculopathy, lumbosacral region"
+icd10cm,Q76427,REG_LS,"Congenital lordosis, lumbosacral region"
+icd10cm,S344,REG_LS,Injury of lumbosacral plexus
+icd10cm,M4108,REG_S,"Infantile idiopathic scoliosis, sacral and sacrococcygeal region"
+icd10cm,M4208,REG_S,"Juvenile osteochondrosis of spine, sacral and sacrococcygeal region"
+icd10cm,M4218,REG_S,"Adult osteochondrosis of spine, sacral and sacrococcygeal region"
+icd10cm,M4308,REG_S,"Spondylolysis, sacral and sacrococcygeal region"
+icd10cm,M4318,REG_S,"Spondylolisthesis, sacral and sacrococcygeal region"
+icd10cm,M4328,REG_S,"Fusion of spine, sacral and sacrococcygeal region"
+icd10cm,M435X8,REG_S,"Other recurrent vertebral dislocation, sacral and sacrococcygeal region"
+icd10cm,M438X8,REG_S,"Other specified deforming dorsopathies, sacral and sacrococcygeal region"
+icd10cm,M458,REG_S,Ankylosing spondylitis sacral and sacrococcygeal region
+icd10cm,M45A8,REG_S,Non-radiographic axial spondyloarthritis of sacral and sacrococcygeal region
+icd10cm,M4608,REG_S,"Spinal enthesopathy, sacral and sacrococcygeal region"
+icd10cm,M461,REG_S,"Sacroiliitis, not elsewhere classified"
+icd10cm,M4628,REG_S,"Osteomyelitis of vertebra, sacral and sacrococcygeal region"
+icd10cm,M4638,REG_S,"Infection of intervertebral disc (pyogenic), sacral and sacrococcygeal region"
+icd10cm,M4648,REG_S,"Discitis, unspecified, sacral and sacrococcygeal region"
+icd10cm,M4658,REG_S,"Other infective spondylopathies, sacral and sacrococcygeal region"
+icd10cm,M4688,REG_S,"Other specified inflammatory spondylopathies, sacral and sacrococcygeal region"
+icd10cm,M4698,REG_S,"Unspecified inflammatory spondylopathy, sacral and sacrococcygeal region"
+icd10cm,M4728,REG_S,"Other spondylosis with radiculopathy, sacral and sacrococcygeal region"
+icd10cm,M47818,REG_S,"Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region"
+icd10cm,M47898,REG_S,"Other spondylosis, sacral and sacrococcygeal region"
+icd10cm,M4808,REG_S,"Spinal stenosis, sacral and sacrococcygeal region"
+icd10cm,M4818,REG_S,"Ankylosing hyperostosis [Forestier], sacral and sacrococcygeal region"
+icd10cm,M4838,REG_S,"Traumatic spondylopathy, sacral and sacrococcygeal region"
+icd10cm,M4848,REG_S,"Fatigue fracture of vertebra, sacral and sacrococcygeal region"
+icd10cm,M4858,REG_S,"Collapsed vertebra, not elsewhere classified, sacral and sacrococcygeal region"
+icd10cm,M488X8,REG_S,"Other specified spondylopathies, sacral and sacrococcygeal region"
+icd10cm,M4988,REG_S,"Spondylopathy in diseases classified elsewhere, sacral and sacrococcygeal region"
+icd10cm,M532X8,REG_S,"Spinal instabilities, sacral and sacrococcygeal region"
+icd10cm,M533,REG_S,"Sacrococcygeal disorders, not elsewhere classified"
+icd10cm,M5388,REG_S,"Other specified dorsopathies, sacral and sacrococcygeal region"
+icd10cm,M5408,REG_S,"Panniculitis affecting regions of neck and back, sacral and sacrococcygeal region"
+icd10cm,M5418,REG_S,"Radiculopathy, sacral and sacrococcygeal region"
+icd10cm,M9904,REG_S,Segmental and somatic dysfunction of sacral region
+icd10cm,M9914,REG_S,Subluxation complex (vertebral) of sacral region
+icd10cm,M9924,REG_S,Subluxation stenosis of neural canal of sacral region
+icd10cm,M9934,REG_S,Osseous stenosis of neural canal of sacral region
+icd10cm,M9944,REG_S,Connective tissue stenosis of neural canal of sacral region
+icd10cm,M9954,REG_S,Intervertebral disc stenosis of neural canal of sacral region
+icd10cm,M9964,REG_S,Osseous and subluxation stenosis of intervertebral foramina of sacral region
+icd10cm,M9974,REG_S,Connective tissue and disc stenosis of intervertebral foramina of sacral region
+icd10cm,M9984,REG_S,Other biomechanical lesions of sacral region
+icd10cm,Q053,REG_S,Sacral spina bifida with hydrocephalus
+icd10cm,Q058,REG_S,Sacral spina bifida without hydrocephalus
+icd10cm,Q76428,REG_S,"Congenital lordosis, sacral and sacrococcygeal region"
+icd10cm,S321,REG_S,Fracture of sacrum
+icd10cm,S322,REG_S,Fracture of coccyx
+icd10cm,S332,REG_S,Dislocation of sacroiliac and sacrococcygeal joint
+icd10cm,S336,REG_S,Sprain of sacroiliac joint
+icd10cm,S3402,REG_S,Concussion and edema of sacral spinal cord
+icd10cm,S3413,REG_S,Other and unspecified injury to sacral spinal cord
+icd10cm,S3422,REG_S,Injury of nerve root of sacral spine
+icd10cm,M4209,REG_M,"Juvenile osteochondrosis of spine, multiple sites in spine"
+icd10cm,M4219,REG_M,"Adult osteochondrosis of spine, multiple sites in spine"
+icd10cm,M4309,REG_M,"Spondylolysis, multiple sites in spine"
+icd10cm,M4319,REG_M,"Spondylolisthesis, multiple sites in spine"
+icd10cm,M450,REG_M,Ankylosing spondylitis of multiple sites in spine
+icd10cm,M45AB,REG_M,Non-radiographic axial spondyloarthritis of multiple sites in spine
+icd10cm,M4609,REG_M,"Spinal enthesopathy, multiple sites in spine"
+icd10cm,M4639,REG_M,"Infection of intervertebral disc (pyogenic), multiple sites in spine"
+icd10cm,M4649,REG_M,"Discitis, unspecified, multiple sites in spine"
+icd10cm,M4659,REG_M,"Other infective spondylopathies, multiple sites in spine"
+icd10cm,M4689,REG_M,"Other specified inflammatory spondylopathies, multiple sites in spine"
+icd10cm,M4699,REG_M,"Unspecified inflammatory spondylopathy, multiple sites in spine"
+icd10cm,M4819,REG_M,"Ankylosing hyperostosis [Forestier], multiple sites in spine"
+icd10cm,M4989,REG_M,"Spondylopathy in diseases classified elsewhere, multiple sites in spine"
+icd10cm,M5409,REG_M,"Panniculitis affecting regions, neck and back, multiple sites in spine"
+icd9cm,846,SPINEDX1,(category)
+icd9cm,847,SPINEDX1,(category)
+icd9cm,7210,SPINEDX2,Cervical spondylosis without myelopathy
+icd9cm,7212,SPINEDX2,Thoracic spondylosis without myelopathy
+icd9cm,7213,SPINEDX2,Lumbosacral spondylosis without myelopathy
+icd9cm,7217,SPINEDX2,Traumatic spondylopathy
+icd9cm,72190,SPINEDX2,"Spondylosis of unspecified site, without mention of myelopathy"
+icd9cm,7223,SPINEDX2,
+icd9cm,7224,SPINEDX2,Degeneration of cervical intervertebral disc
+icd9cm,7225,SPINEDX2,
+icd9cm,7226,SPINEDX2,"Degeneration of intervertebral disc, site unspecified"
+icd9cm,7231,SPINEDX2,Cervicalgia
+icd9cm,7238,SPINEDX2,Other syndromes affecting cervical region
+icd9cm,7239,SPINEDX2,Unspecified musculoskeletal disorders and symptoms referable to neck
+icd9cm,7241,SPINEDX2,Pain in thoracic spine
+icd9cm,7242,SPINEDX2,Lumbago
+icd9cm,7245,SPINEDX2,"Backache, unspecified"
+icd9cm,7246,SPINEDX2,Disorders of sacrum
+icd9cm,7247,SPINEDX2,
+icd9cm,7248,SPINEDX2,Other symptoms referable to back
+icd9cm,7249,SPINEDX2,Other unspecified back disorders
+icd9cm,3550,SPINEDX3,Lesion of sciatic nerve
+icd9cm,7220,SPINEDX3,Displacement of cervical intervertebral disc without myelopathy
+icd9cm,7221,SPINEDX3,
+icd9cm,7222,SPINEDX3,"Displacement of intervertebral disc, site unspecified, without myelopathy"
+icd9cm,7227,SPINEDX3,
+icd9cm,7229,SPINEDX3,
+icd9cm,7243,SPINEDX3,Sciatica
+icd9cm,7211,SPINEDX4,Cervical spondylosis with myelopathy
+icd9cm,7214,SPINEDX4,
+icd9cm,72191,SPINEDX4,"Spondylosis of unspecified site, with myelopathy"
+icd9cm,7230,SPINEDX4,Spinal stenosis in cervical region
+icd9cm,72400,SPINEDX4,"Spinal stenosis, unspecified region"
+icd9cm,72401,SPINEDX4,"Spinal stenosis, thoracic region"
+icd9cm,72402,SPINEDX4,"Spinal stenosis, lumbar region, without neurogenic claudication"
+icd9cm,72403,SPINEDX4,"Spinal stenosis, lumbar region, with neurogenic claudication"
+icd9cm,72409,SPINEDX4,"Spinal stenosis, other region"
+icd9cm,7384,SPINEDX5,Acquired spondylolisthesis
+icd9cm,7391,SPINEDX5,"Nonallopathic lesions, cervical region"
+icd9cm,7392,SPINEDX5,"Nonallopathic lesions, thoracic region"
+icd9cm,7393,SPINEDX5,"Nonallopathic lesions, lumbar region"
+icd9cm,7394,SPINEDX5,"Nonallopathic lesions, sacral region"
+icd9cm,75611,SPINEDX5,"Spondylolysis, lumbosacral region"
+icd9cm,75612,SPINEDX5,Spondylolisthesis
+icd9cm,737,SPINEDX6,(category)
+icd9cm,3446,SPINEDX7,
+icd9cm,3532,SPINEDX7,"Cervical root lesions, not elsewhere classified"
+icd9cm,3533,SPINEDX7,"Thoracic root lesions, not elsewhere classified"
+icd9cm,3534,SPINEDX7,"Lumbosacral root lesions, not elsewhere classified"
+icd9cm,3550,SPINEDX7,Lesion of sciatic nerve
+icd9cm,7233,SPINEDX7,Cervicobrachial syndrome (diffuse)
+icd9cm,7234,SPINEDX7,Brachial neuritis or radiculitis NOS
+icd9cm,72403,SPINEDX7,"Spinal stenosis, lumbar region, with neurogenic claudication"
+icd9cm,7243,SPINEDX7,Sciatica
+icd9cm,7244,SPINEDX7,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+icd9cm,9530,SPINEDX7,Injury to cervical nerve root
+icd9cm,9531,SPINEDX7,Injury to dorsal nerve root
+icd9cm,9532,SPINEDX7,Injury to lumbar nerve root
+icd9cm,9533,SPINEDX7,Injury to sacral nerve root
+icd9cm,805,SPINEDX8,(category)
+icd9cm,806,SPINEDX8,(category)
+icd9cm,8390,SPINEDX8,
+icd9cm,8391,SPINEDX8,
+icd9cm,8392,SPINEDX8,
+icd9cm,8393,SPINEDX8,
+icd9cm,8394,SPINEDX8,
+icd9cm,8395,SPINEDX8,
+icd9cm,9051,SPINEDX8,Late effect of fracture of spine and trunk without mention of spinal cord lesion
+icd9cm,V5417,SPINEDX8,Aftercare for healing traumatic fracture of vertebrae
+icd9cm,806,SPINEDX9,(category)
+icd9cm,9072,SPINEDX9,Late effect of spinal cord injury
+icd9cm,952,SPINEDX9,(category)
+icd9cm,3360,SPINEDX10,Syringomyelia and syringobulbia
+icd9cm,7215,SPINEDX10,Kissing spine
+icd9cm,7216,SPINEDX10,Ankylosing vertebral hyperostosis
+icd9cm,7217,SPINEDX10,Traumatic spondylopathy
+icd9cm,7235,SPINEDX10,"Torticollis, unspecified"
+icd9cm,7246,SPINEDX10,Disorders of sacrum
+icd9cm,7320,SPINEDX10,Juvenile osteochondrosis of spine
+icd9cm,7385,SPINEDX10,Other acquired deformity of back or spine
+icd9cm,741,SPINEDX10,(category)
+icd9cm,7425,SPINEDX10,
+icd9cm,7542,SPINEDX10,Congenital musculoskeletal deformities of spine
+icd9cm,75610,SPINEDX10,"Anomaly of spine, unspecified"
+icd9cm,75613,SPINEDX10,"Absence of vertebra, congenital"
+icd9cm,75614,SPINEDX10,Hemivertebra
+icd9cm,75615,SPINEDX10,"Fusion of spine (vertebra), congenital"
+icd9cm,75616,SPINEDX10,Klippel-Feil syndrome
+icd9cm,75617,SPINEDX10,Spina bifida occulta
+icd9cm,75619,SPINEDX10,Other anomalies of spine
+icd9cm,720,SPINEDX11,(category)
+icd9cm,7218,SPINEDX11,Other allied disorders of spine
+icd9cm,7236,SPINEDX11,Panniculitis specified as affecting neck
+icd9cm,7237,SPINEDX11,Ossification of posterior longitudinal ligament in cervical region
+icd9cm,73313,SPINEDX12,Pathologic fracture of vertebrae
+icd9cm,V5427,SPINEDX12,Aftercare for healing pathologic fracture of vertebrae
+icd9cm,7228,SPINEDX13,
+icd9cm,73712,SPINEDX13,"Kyphosis, postlaminectomy"
+icd9cm,73721,SPINEDX13,"Lordosis, postlaminectomy"
+icd9cm,73722,SPINEDX13,Other postsurgical lordosis
+icd9cm,9962,SPINEDX13,"Mechanical complication of nervous system device, implant, and graft"
+icd9cm,99640,SPINEDX13,"Unspecified mechanical complication of internal orthopedic device, implant, and graft"
+icd9cm,99649,SPINEDX13,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+icd9cm,9964=,SPINEDX13,"EXACT MATCH: Mechanical complication of internal orthopedic device, implant, and graft (billable until Sept 30, 2005; split into 996.40-996.49 from FY2006). Includes joint prostheses."
+icd9cm,99667,SPINEDX13,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+icd9cm,99678,SPINEDX13,"Other complications due to other internal orthopedic device, implant, and graft"
+icd9cm,V454,SPINEDX13,Arthrodesis status
+icd9cm,3363,SPINEDX15,Myelopathy in other diseases classified elsewhere
+icd9cm,3369,SPINEDX15,Unspecified disease of spinal cord
+icd9cm,7211,SPINEDX15,Cervical spondylosis with myelopathy
+icd9cm,7214,SPINEDX15,
+icd9cm,72191,SPINEDX15,"Spondylosis of unspecified site, with myelopathy"
+icd9cm,7227,SPINEDX15,
+icd9cm,1702,SPINEDX16,"Malignant neoplasm of vertebral column, excluding sacrum and coccyx"
+icd9cm,1922,SPINEDX16,Malignant neoplasm of spinal cord
+icd9cm,1923,SPINEDX16,Malignant neoplasm of spinal meninges
+icd9cm,2132,SPINEDX16,"Benign neoplasm of vertebral column, excluding sacrum and coccyx"
+icd9cm,2253,SPINEDX16,Benign neoplasm of spinal cord
+icd9cm,2254,SPINEDX16,Benign neoplasm of spinal meninges
+icd9cm,80501,REG_A,Closed fracture of first cervical vertebra
+icd9cm,80502,REG_A,Closed fracture of second cervical vertebra
+icd9cm,80511,REG_A,Open fracture of first cervical vertebra
+icd9cm,80512,REG_A,Open fracture of second cervical vertebra
+icd9cm,83901,REG_A,"Closed dislocation, first cervical vertebra"
+icd9cm,83902,REG_A,"Closed dislocation, second cervical vertebra"
+icd9cm,83911,REG_A,"Open dislocation, first cervical vertebra"
+icd9cm,83912,REG_A,"Open dislocation, second cervical vertebra"
+icd9cm,3532,REG_C,"Cervical root lesions, not elsewhere classified"
+icd9cm,7210,REG_C,Cervical spondylosis without myelopathy
+icd9cm,7211,REG_C,Cervical spondylosis with myelopathy
+icd9cm,7220,REG_C,Displacement of cervical intervertebral disc without myelopathy
+icd9cm,7224,REG_C,Degeneration of cervical intervertebral disc
+icd9cm,72271,REG_C,"Intervertebral disc disorder with myelopathy, cervical region"
+icd9cm,72281,REG_C,"Postlaminectomy syndrome, cervical region"
+icd9cm,72291,REG_C,"Other and unspecified disc disorder, cervical region"
+icd9cm,723,REG_C,(category)
+icd9cm,7391,REG_C,"Nonallopathic lesions, cervical region"
+icd9cm,74101,REG_C,"Spina bifida with hydrocephalus, cervical region"
+icd9cm,74191,REG_C,"Spina bifida without mention of hydrocephalus, cervical region"
+icd9cm,80500,REG_C,"Closed fracture of cervical vertebra, unspecified level"
+icd9cm,80503,REG_C,Closed fracture of third cervical vertebra
+icd9cm,80504,REG_C,Closed fracture of fourth cervical vertebra
+icd9cm,80505,REG_C,Closed fracture of fifth cervical vertebra
+icd9cm,80506,REG_C,Closed fracture of sixth cervical vertebra
+icd9cm,80507,REG_C,Closed fracture of seventh cervical vertebra
+icd9cm,80508,REG_C,Closed fracture of multiple cervical vertebrae
+icd9cm,80510,REG_C,"Open fracture of cervical vertebra, unspecified level"
+icd9cm,80513,REG_C,Open fracture of third cervical vertebra
+icd9cm,80514,REG_C,Open fracture of fourth cervical vertebra
+icd9cm,80515,REG_C,Open fracture of fifth cervical vertebra
+icd9cm,80516,REG_C,Open fracture of sixth cervical vertebra
+icd9cm,80517,REG_C,Open fracture of seventh cervical vertebra
+icd9cm,80518,REG_C,Open fracture of multiple cervical vertebrae
+icd9cm,8060,REG_C,
+icd9cm,8061,REG_C,
+icd9cm,83900,REG_C,"Closed dislocation, cervical vertebra, unspecified"
+icd9cm,83903,REG_C,"Closed dislocation, third cervical vertebra"
+icd9cm,83904,REG_C,"Closed dislocation, fourth cervical vertebra"
+icd9cm,83905,REG_C,"Closed dislocation, fifth cervical vertebra"
+icd9cm,83906,REG_C,"Closed dislocation, sixth cervical vertebra"
+icd9cm,83907,REG_C,"Closed dislocation, seventh cervical vertebra"
+icd9cm,83908,REG_C,"Closed dislocation, multiple cervical vertebrae"
+icd9cm,83910,REG_C,"Open dislocation, cervical vertebra, unspecified"
+icd9cm,83913,REG_C,"Open dislocation, third cervical vertebra"
+icd9cm,83914,REG_C,"Open dislocation, fourth cervical vertebra"
+icd9cm,83915,REG_C,"Open dislocation, fifth cervical vertebra"
+icd9cm,83916,REG_C,"Open dislocation, sixth cervical vertebra"
+icd9cm,83917,REG_C,"Open dislocation, seventh cervical vertebra"
+icd9cm,83918,REG_C,"Open dislocation, multiple cervical vertebrae"
+icd9cm,8470,REG_C,Sprain of neck
+icd9cm,9520,REG_C,
+icd9cm,9530,REG_C,Injury to cervical nerve root
+icd9cm,3533,REG_T,"Thoracic root lesions, not elsewhere classified"
+icd9cm,7212,REG_T,Thoracic spondylosis without myelopathy
+icd9cm,72141,REG_T,"Spondylosis with myelopathy, thoracic region"
+icd9cm,72211,REG_T,Displacement of thoracic intervertebral disc without myelopathy
+icd9cm,72231,REG_T,"Schmorl's nodes, thoracic region"
+icd9cm,72251,REG_T,Degeneration of thoracic or thoracolumbar intervertebral disc
+icd9cm,72272,REG_T,"Intervertebral disc disorder with myelopathy, thoracic region"
+icd9cm,72282,REG_T,"Postlaminectomy syndrome, thoracic region"
+icd9cm,72292,REG_T,"Other and unspecified disc disorder, thoracic region"
+icd9cm,72401,REG_T,"Spinal stenosis, thoracic region"
+icd9cm,7241,REG_T,Pain in thoracic spine
+icd9cm,73734,REG_T,Thoracogenic scoliosis
+icd9cm,7392,REG_T,"Nonallopathic lesions, thoracic region"
+icd9cm,74102,REG_T,"Spina bifida with hydrocephalus, dorsal (thoracic) region"
+icd9cm,74192,REG_T,"Spina bifida without mention of hydrocephalus, dorsal (thoracic) region"
+icd9cm,8052,REG_T,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+icd9cm,8053,REG_T,Open fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+icd9cm,8062,REG_T,
+icd9cm,8063,REG_T,
+icd9cm,83921,REG_T,"Closed dislocation, thoracic vertebra"
+icd9cm,83931,REG_T,"Open dislocation, thoracic vertebra"
+icd9cm,8471,REG_T,Sprain of thoracic
+icd9cm,9521,REG_T,
+icd9cm,9531,REG_T,Injury to dorsal nerve root
+icd9cm,72142,REG_L,"Spondylosis with myelopathy, lumbar region"
+icd9cm,72210,REG_L,Displacement of lumbar intervertebral disc without myelopathy
+icd9cm,72232,REG_L,"Schmorl's nodes, lumbar region"
+icd9cm,72273,REG_L,"Intervertebral disc disorder with myelopathy, lumbar region"
+icd9cm,72283,REG_L,"Postlaminectomy syndrome, lumbar region"
+icd9cm,72293,REG_L,"Other and unspecified disc disorder, lumbar region"
+icd9cm,72402,REG_L,"Spinal stenosis, lumbar region, without neurogenic claudication"
+icd9cm,72403,REG_L,"Spinal stenosis, lumbar region, with neurogenic claudication"
+icd9cm,7242,REG_L,Lumbago
+icd9cm,7393,REG_L,"Nonallopathic lesions, lumbar region"
+icd9cm,74103,REG_L,"Spina bifida with hydrocephalus, lumbar region"
+icd9cm,74193,REG_L,"Spina bifida without mention of hydrocephalus, lumbar region"
+icd9cm,8054,REG_L,Closed fracture of lumbar vertebra without mention of spinal cord injury
+icd9cm,8055,REG_L,Open fracture of lumbar vertebra without mention of spinal cord injury
+icd9cm,8064,REG_L,Closed fracture of lumbar spine with spinal cord injury
+icd9cm,8065,REG_L,Open fracture of lumbar spine with spinal cord injury
+icd9cm,83920,REG_L,"Closed dislocation, lumbar vertebra"
+icd9cm,83930,REG_L,"Open dislocation, lumbar vertebra"
+icd9cm,8472,REG_L,Sprain of lumbar
+icd9cm,9522,REG_L,Lumbar spinal cord injury without evidence of spinal bone injury
+icd9cm,9532,REG_L,Injury to lumbar nerve root
+icd9cm,3531,REG_LS,Lumbosacral plexus lesions
+icd9cm,3534,REG_LS,"Lumbosacral root lesions, not elsewhere classified"
+icd9cm,7213,REG_LS,Lumbosacral spondylosis without myelopathy
+icd9cm,72252,REG_LS,Degeneration of lumbar or lumbosacral intervertebral disc
+icd9cm,7244,REG_LS,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+icd9cm,75611,REG_LS,"Spondylolysis, lumbosacral region"
+icd9cm,8460,REG_LS,Sprain of lumbosacral (joint) (ligament)
+icd9cm,9535,REG_LS,Injury to lumbosacral plexus
+icd9cm,7202,REG_S,"Sacroiliitis, not elsewhere classified"
+icd9cm,7246,REG_S,Disorders of sacrum
+icd9cm,7247,REG_S,
+icd9cm,7394,REG_S,"Nonallopathic lesions, sacral region"
+icd9cm,8056,REG_S,Closed fracture of sacrum and coccyx without mention of spinal cord injury
+icd9cm,8057,REG_S,Open fracture of sacrum and coccyx without mention of spinal cord injury
+icd9cm,8066,REG_S,
+icd9cm,8067,REG_S,
+icd9cm,83941,REG_S,"Closed dislocation, coccyx"
+icd9cm,83942,REG_S,"Closed dislocation, sacrum"
+icd9cm,83951,REG_S,"Open dislocation, coccyx"
+icd9cm,83952,REG_S,"Open dislocation, sacrum"
+icd9cm,8461,REG_S,Sprain of sacroiliac ligament
+icd9cm,8462,REG_S,Sprain of sacrospinatus (ligament)
+icd9cm,8463,REG_S,Sprain of sacrotuberous (ligament)
+icd9cm,8468,REG_S,Sprain of other specified sites of sacroiliac region
+icd9cm,8469,REG_S,Sprain of unspecified site of sacroiliac region
+icd9cm,8473,REG_S,Sprain of sacrum
+icd9cm,8474,REG_S,Sprain of coccyx
+icd9cm,9523,REG_S,Sacral spinal cord injury without evidence of spinal bone injury
+icd9cm,9533,REG_S,Injury to sacral nerve root
