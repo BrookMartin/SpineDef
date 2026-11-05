@@ -82,6 +82,14 @@ Mirza SK, Deyo RA, Heagerty PJ, Konodi MA, Lee LA, Turner JA, Goodkin R. Develop
 
 > Martin BI. spineinv: Stata program to calculate the Surgical Invasiveness Index from CPT codes. Version 5.1. 2026. https://github.com/BrookMartin/SpineDef
 
+The Surgical Invasivness Index was developed and validated based on the following studies and updated to reflect recent coding changes.
+
+1. Mirza SK, Martin BI, Goodkin R, Hart RA, Anderson PA. Developing a toolkit for comparing safety in spine surgery. Instr Course Lect. 2014;63:271-86. PMID: 24720313.
+2. Mirza SK, Deyo RA, Heagerty PJ, Konodi MA, Lee LA, Turner JA, Goodkin R. Development of an index to characterize the "invasiveness" of spine surgery: validation by comparison to blood loss and operative time. Spine (Phila Pa 1976). 2008 Nov 15;33(24):2651-61; discussion 2662. doi: 10.1097/BRS.0b013e31818dad07. PMID: 18981957.
+3. Kazberouk A, Martin BI, Stevens JP, McGuire KJ. Validation of an administrative coding algorithm for classifying surgical indication and operative features of spine surgery. *Spine (Phila Pa 1976)*. 2015 Jan 15;40(2):114-120. [doi:10.1097/BRS.0000000000000682](https://doi.org/10.1097/BRS.0000000000000682). PMID: 25575086.
+4. Holzer EM, Aghayev E, O'Riordan D, Fekete TF, Jeszenszky DJ, Haschtmann D, Porchet F, Kleinstueck FS, Pigott T, Munting E, Luca A, Mannion AF. Validation of a surgical invasiveness index in patients with lumbar spinal disorders registered in the Spine Tango registry. Eur Spine J. 2021 Jan;30(1):1-12. doi: 10.1007/s00586-020-06651-w. Epub 2020 Nov 24. PMID: 33231779.
+
+
 ## Author
 
 Brook I. Martin, PhD, MPH
