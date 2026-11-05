@@ -9,13 +9,13 @@
 In Stata 16 or later:
 
 ```stata
-net install spinesx, from("https://raw.githubusercontent.com/GITHUB-USER/spine-stata/main/spinesx/") replace
+net install spinesx, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinesx/") replace
 ```
 
 To also download the regression test to your current folder:
 
 ```stata
-net get spinesx, from("https://raw.githubusercontent.com/GITHUB-USER/spine-stata/main/spinesx/")
+net get spinesx, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinesx/")
 do spinesx_test.do
 ```
 
@@ -93,7 +93,7 @@ The classification is defined by a code library, `spinesx_codes.csv`, installed 
 
 ## Citation
 
-> Martin BI. spinesx: Stata program to classify spine procedures from CPT codes. Version 2.2. 2026. https://github.com/GITHUB-USER/spine-stata
+> Martin BI. spinesx: Stata program to classify spine procedures from CPT codes. Version 2.2. 2026. https://github.com/BrookMartin/SpineDef
 
 ## Author
 

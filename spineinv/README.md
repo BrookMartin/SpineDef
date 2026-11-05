@@ -9,13 +9,13 @@
 In Stata 16 or later:
 
 ```stata
-net install spineinv, from("https://raw.githubusercontent.com/GITHUB-USER/spine-stata/main/spineinv/") replace
+net install spineinv, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spineinv/") replace
 ```
 
 To also download the regression test to your current folder:
 
 ```stata
-net get spineinv, from("https://raw.githubusercontent.com/GITHUB-USER/spine-stata/main/spineinv/")
+net get spineinv, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spineinv/")
 do spineinv_test.do
 ```
 
@@ -80,7 +80,7 @@ Mirza SK, Deyo RA, Heagerty PJ, Konodi MA, Lee LA, Turner JA, Goodkin R. Develop
 
 ## Citation
 
-> Martin BI. spineinv: Stata program to calculate the Surgical Invasiveness Index from CPT codes. Version 5.1. 2026. https://github.com/GITHUB-USER/spine-stata
+> Martin BI. spineinv: Stata program to calculate the Surgical Invasiveness Index from CPT codes. Version 5.1. 2026. https://github.com/BrookMartin/SpineDef
 
 ## Author
 
