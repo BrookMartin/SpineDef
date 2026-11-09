@@ -90,6 +90,8 @@ Administrative data such as the National Inpatient Sample have no present-on-adm
 ## Citation
 
 > Martin BI. orthopsi: Stata program to identify post-procedure complications after orthopaedic surgery from ICD-9-CM and ICD-10-CM codes. Version 2.1. 2026. https://github.com/BrookMartin/SpineDef
+> Engler ID, Vasavada KD, Vanneman ME, Schoenfeld AJ, Martin BI. Do Community-level Disadvantages Account for Racial Disparities in the Safety of Spine Surgery? A Large Database Study Based on Medicare Claims. Clin Orthop Relat Res. 2023 Feb 1;481(2):268-278. doi: 10.1097/CORR.0000000000002323. Epub 2022 Aug 12. PMID: 35976183; PMCID: PMC9831153.
+
 
 ## Author
 
