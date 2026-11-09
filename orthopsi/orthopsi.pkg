@@ -1,0 +1,22 @@
+v 3
+d 'ORTHOPSI': Post-procedure complications after orthopaedic surgery from ICD-9-CM and ICD-10-CM codes
+d
+d Flags 15 categories of post-procedure complications (patient safety
+d indicators), plus device-related infections, after orthopaedic surgery
+d from ICD-9-CM and ICD-10-CM diagnosis codes,
+d with site-specific codes applied only to the relevant procedure types
+d (spine, hip, knee, upper and lower extremity, foot, hand).
+d
+d Requires Stata 16 or later.
+d
+d Author: Brook I. Martin, PhD, MPH
+d Department of Orthopaedics, University of Utah
+d Support: Brook.Martin@hsc.utah.edu
+d
+d Version 2.1
+d Distribution-Date: 20261106
+d
+f orthopsi.ado
+f orthopsi.sthlp
+F orthopsi_codes.csv
+f orthopsi_test.do

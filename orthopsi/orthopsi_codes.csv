@@ -1,0 +1,504 @@
+system,prefix,variable,procedure,description
+icd10cm,L7602,PSI1,all,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure
+icd10cm,L7612,PSI1,all,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure
+icd10cm,L7622,PSI1,all,Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure
+icd10cm,L7632,PSI1,all,Postprocedural hematoma of skin and subcutaneous tissue following other procedure
+icd10cm,L7634,PSI1,all,Postprocedural seroma of skin and subcutaneous tissue following other procedure
+icd10cm,L7681,PSI1,all,Other intraoperative complications of skin and subcutaneous tissue
+icd10cm,L7682,PSI1,all,Other postprocedural complications of skin and subcutaneous tissue
+icd10cm,G970,PSI2,all,Cerebrospinal fluid leak from spinal puncture
+icd10cm,G971,PSI2,all,Other reaction to spinal and lumbar puncture
+icd10cm,G9731,PSI2,all,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure
+icd10cm,G9732,PSI2,all,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure
+icd10cm,G9741,PSI2,all,Accidental puncture or laceration of dura during a procedure
+icd10cm,G9748,PSI2,all,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure
+icd10cm,G9749,PSI2,all,Accidental puncture and laceration of other nervous system organ or structure during other procedure
+icd10cm,G9751,PSI2,all,Postprocedural hemorrhage of a nervous system organ or structure following a nervous system procedure
+icd10cm,G9752,PSI2,all,Postprocedural hemorrhage of a nervous system organ or structure following other procedure
+icd10cm,G9761,PSI2,all,Postprocedural hematoma of a nervous system organ or structure following a nervous system procedure
+icd10cm,G9762,PSI2,all,Postprocedural hematoma of a nervous system organ or structure following other procedure
+icd10cm,G9763,PSI2,all,Postprocedural seroma of a nervous system organ or structure following a nervous system procedure
+icd10cm,G9764,PSI2,all,Postprocedural seroma of a nervous system organ or structure following other procedure
+icd10cm,G9781,PSI2,all,Other intraoperative complications of nervous system
+icd10cm,G9782,PSI2,all,Other postprocedural complications and disorders of nervous system
+icd10cm,G9783,PSI2,all,Intracranial hypotension following lumbar cerebrospinal fluid shunting
+icd10cm,G9784,PSI2,all,Intracranial hypotension following other procedure
+icd10cm,M966,PSI2,all,"Fracture of bone following insertion of orthopedic implant, joint prosthesis, or bone plate"
+icd10cm,M96810,PSI2,all,Intraoperative hemorrhage and hematoma of a musculoskeletal structure complicating a musculoskeletal system procedure
+icd10cm,M96820,PSI2,all,Accidental puncture and laceration of a musculoskeletal structure during a musculoskeletal system procedure
+icd10cm,M96830,PSI2,all,Postprocedural hemorrhage of a musculoskeletal structure following a musculoskeletal system procedure
+icd10cm,M96840,PSI2,all,Postprocedural hematoma of a musculoskeletal structure following a musculoskeletal system procedure
+icd10cm,M96842,PSI2,all,Postprocedural seroma of a musculoskeletal structure following a musculoskeletal system procedure
+icd10cm,M9689,PSI2,all,Other intraoperative and postprocedural complications and disorders of the musculoskeletal system
+icd10cm,M972,PSI2,all,Periprosthetic fracture around internal prosthetic ankle joint
+icd10cm,M973,PSI2,all,Periprosthetic fracture around internal prosthetic shoulder joint
+icd10cm,M974,PSI2,all,Periprosthetic fracture around internal prosthetic elbow joint
+icd10cm,M978,PSI2,all,Periprosthetic fracture around other internal prosthetic joint
+icd10cm,M979,PSI2,all,Periprosthetic fracture around unspecified internal prosthetic joint
+icd10cm,M9701,PSI2,hip,Periprosthetic fracture around internal prosthetic right hip joint
+icd10cm,M9702,PSI2,hip,Periprosthetic fracture around internal prosthetic left hip joint
+icd10cm,M9711,PSI2,knee,Periprosthetic fracture around internal prosthetic right knee joint
+icd10cm,M9712,PSI2,knee,Periprosthetic fracture around internal prosthetic left knee joint
+icd10cm,M960,PSI2,spine,Pseudarthrosis after fusion or arthrodesis
+icd10cm,M961,PSI2,spine,"Postlaminectomy syndrome, not elsewhere classified"
+icd10cm,M963,PSI2,spine,Postlaminectomy kyphosis
+icd10cm,M964,PSI2,spine,Postsurgical lordosis
+icd10cm,K912,PSI3,all,"Postsurgical malabsorption, not elsewhere classified"
+icd10cm,K913,PSI3,all,Postprocedural intestinal obstruction
+icd10cm,K9162,PSI3,all,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure
+icd10cm,K9172,PSI3,all,Accidental puncture and laceration of a digestive system organ or structure during other procedure
+icd10cm,K91841,PSI3,all,Postprocedural hemorrhage of a digestive system organ or structure following other procedure
+icd10cm,K91871,PSI3,all,Postprocedural hematoma of a digestive system organ or structure following other procedure
+icd10cm,K91873,PSI3,all,Postprocedural seroma of a digestive system organ or structure following other procedure
+icd10cm,K9189,PSI3,all,Other postprocedural complications and disorders of digestive system
+icd10cm,J951,PSI4,all,Acute pulmonary insufficiency following thoracic surgery
+icd10cm,J952,PSI4,all,Acute pulmonary insufficiency following nonthoracic surgery
+icd10cm,J953,PSI4,all,Chronic pulmonary insufficiency following surgery
+icd10cm,J954,PSI4,all,Chemical pneumonitis due to anesthesia
+icd10cm,J955,PSI4,all,Postprocedural subglottic stenosis
+icd10cm,J9562,PSI4,all,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure
+icd10cm,J9572,PSI4,all,Accidental puncture and laceration of a respiratory system organ or structure during other procedure
+icd10cm,J95811,PSI4,all,Postprocedural pneumothorax
+icd10cm,J95812,PSI4,all,Postprocedural air leak
+icd10cm,J95821,PSI4,all,Acute postprocedural respiratory failure
+icd10cm,J95822,PSI4,all,Acute and chronic postprocedural respiratory failure
+icd10cm,J95831,PSI4,all,Postprocedural hemorrhage of a respiratory system organ or structure following other procedure
+icd10cm,J9584,PSI4,all,Transfusion-related acute lung injury (TRALI)
+icd10cm,J95850,PSI4,all,Mechanical complication of respirator
+icd10cm,J95851,PSI4,all,Ventilator associated pneumonia
+icd10cm,J95859,PSI4,all,Other complication of respirator [ventilator]
+icd10cm,J95861,PSI4,all,Postprocedural hematoma of a respiratory system organ or structure following other procedure
+icd10cm,J95863,PSI4,all,Postprocedural seroma of a respiratory system organ or structure following other procedure
+icd10cm,J9587,PSI4,all,Transfusion-associated dyspnea (TAD)
+icd10cm,J9588,PSI4,all,"Other intraoperative complications of respiratory system, not elsewhere classified"
+icd10cm,J9589,PSI4,all,"Other postprocedural complications and disorders of respiratory system, not elsewhere classified"
+icd10cm,I21,PSI5,all,Acute myocardial infarction
+icd10cm,I220,PSI5,all,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall
+icd10cm,I221,PSI5,all,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall
+icd10cm,I222,PSI5,all,Subsequent non-ST elevation (NSTEMI) myocardial infarction
+icd10cm,I228,PSI5,all,Subsequent ST elevation (STEMI) myocardial infarction of other sites
+icd10cm,I229,PSI5,all,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site
+icd10cm,I230,PSI5,all,Hemopericardium as current complication following acute myocardial infarction
+icd10cm,I231,PSI5,all,Atrial septal defect as current complication following acute myocardial infarction
+icd10cm,I232,PSI5,all,Ventricular septal defect as current complication following acute myocardial infarction
+icd10cm,I233,PSI5,all,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction
+icd10cm,I234,PSI5,all,Rupture of chordae tendineae as current complication following acute myocardial infarction
+icd10cm,I235,PSI5,all,Rupture of papillary muscle as current complication following acute myocardial infarction
+icd10cm,I236,PSI5,all,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+icd10cm,I237,PSI5,all,Postinfarction angina
+icd10cm,I238,PSI5,all,Other current complications following acute myocardial infarction
+icd10cm,I240,PSI5,all,Acute coronary thrombosis not resulting in myocardial infarction
+icd10cm,I241,PSI5,all,Dressler's syndrome
+icd10cm,I248,PSI5,all,Other forms of acute ischemic heart disease
+icd10cm,I249,PSI5,all,"Acute ischemic heart disease, unspecified"
+icd10cm,I97111,PSI5,all,Postprocedural cardiac insufficiency following other surgery
+icd10cm,I97121,PSI5,all,Postprocedural cardiac arrest following other surgery
+icd10cm,I97131,PSI5,all,Postprocedural heart failure following other surgery
+icd10cm,I97191,PSI5,all,Other postprocedural cardiac functional disturbances following other surgery
+icd10cm,I973,PSI5,all,Postprocedural hypertension
+icd10cm,I9742,PSI5,all,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other procedure
+icd10cm,I9752,PSI5,all,Accidental puncture and laceration of a circulatory system organ or structure during other procedure
+icd10cm,I97620,PSI5,all,Postprocedural hemorrhage of a circulatory system organ or structure following other procedure
+icd10cm,I97621,PSI5,all,Postprocedural hematoma of a circulatory system organ or structure following other procedure
+icd10cm,I97622,PSI5,all,Postprocedural seroma of a circulatory system organ or structure following other procedure
+icd10cm,I97711,PSI5,all,Intraoperative cardiac arrest during other surgery
+icd10cm,I97791,PSI5,all,Other intraoperative cardiac functional disturbances during other surgery
+icd10cm,I9788,PSI5,all,"Other intraoperative complications of the circulatory system, not elsewhere classified"
+icd10cm,I9789,PSI5,all,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified"
+icd10cm,N990,PSI6,all,Postprocedural (acute) (chronic) kidney failure
+icd10cm,N9962,PSI6,all,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating other procedure
+icd10cm,N9972,PSI6,all,Accidental puncture and laceration of a genitourinary system organ or structure during other procedure
+icd10cm,N99821,PSI6,all,Postprocedural hemorrhage of a genitourinary system organ or structure following other procedure
+icd10cm,N99841,PSI6,all,Postprocedural hematoma of a genitourinary system organ or structure following other procedure
+icd10cm,N99843,PSI6,all,Postprocedural seroma of a genitourinary system organ or structure following other procedure
+icd10cm,N9989,PSI6,all,Other postprocedural complications and disorders of genitourinary system
+icd10cm,T8110,PSI7,all,Postprocedural shock unspecified
+icd10cm,T8111,PSI7,all,Postprocedural cardiogenic shock
+icd10cm,T8112,PSI7,all,Postprocedural septic shock
+icd10cm,T8119,PSI7,all,Other postprocedural shock
+icd10cm,T81500,PSI7,all,Unspecified complication of foreign body accidentally left in body following surgical operation
+icd10cm,T81508,PSI7,all,Unspecified complication of foreign body accidentally left in body following other procedure
+icd10cm,T81509,PSI7,all,Unspecified complication of foreign body accidentally left in body following unspecified procedure
+icd10cm,T81510,PSI7,all,Adhesions due to foreign body accidentally left in body following surgical operation
+icd10cm,T81518,PSI7,all,Adhesions due to foreign body accidentally left in body following other procedure
+icd10cm,T81519,PSI7,all,Adhesions due to foreign body accidentally left in body following unspecified procedure
+icd10cm,T81520,PSI7,all,Obstruction due to foreign body accidentally left in body following surgical operation
+icd10cm,T81528,PSI7,all,Obstruction due to foreign body accidentally left in body following other procedure
+icd10cm,T81529,PSI7,all,Obstruction due to foreign body accidentally left in body following unspecified procedure
+icd10cm,T81530,PSI7,all,Perforation due to foreign body accidentally left in body following surgical operation
+icd10cm,T81538,PSI7,all,Perforation due to foreign body accidentally left in body following other procedure
+icd10cm,T81539,PSI7,all,Perforation due to foreign body accidentally left in body following unspecified procedure
+icd10cm,T81590,PSI7,all,Other complications of foreign body accidentally left in body following surgical operation
+icd10cm,T81598,PSI7,all,Other complications of foreign body accidentally left in body following other procedure
+icd10cm,T81599,PSI7,all,Other complications of foreign body accidentally left in body following unspecified procedure
+icd10cm,T816,PSI7,all,Acute reaction to foreign substance accidentally left during a procedure
+icd10cm,T8182,PSI7,all,Emphysema (subcutaneous) resulting from a procedure
+icd10cm,T8183,PSI7,all,Persistent postprocedural fistula
+icd10cm,T8189,PSI7,all,"Other complications of procedures, not elsewhere classified"
+icd10cm,T819,PSI7,all,Unspecified complication of procedure
+icd10cm,T888,PSI7,all,"Other specified complications of surgical and medical care, not elsewhere classified"
+icd10cm,T889,PSI7,all,"Complication of surgical and medical care, unspecified"
+icd10cm,J95851,PSI8,all,Ventilator associated pneumonia
+icd10cm,K6811,PSI8,all,Postprocedural retroperitoneal abscess
+icd10cm,T8021,PSI8,all,Infection due to central venous catheter
+icd10cm,T8022,PSI8,all,"Acute infection following transfusion, infusion, or injection of blood and blood products"
+icd10cm,T8029,PSI8,all,"Infection following other infusion, transfusion and therapeutic injection"
+icd10cm,T8112,PSI8,all,Postprocedural septic shock
+icd10cm,T8130,PSI8,all,"Disruption of wound, unspecified"
+icd10cm,T8131,PSI8,all,"Disruption of external operation (surgical) wound, not elsewhere classified"
+icd10cm,T8132,PSI8,all,"Disruption of internal operation (surgical) wound, not elsewhere classified"
+icd10cm,T8133,PSI8,all,Disruption of traumatic injury wound repair
+icd10cm,T8140,PSI8,all,"Infection following a procedure, unspecified"
+icd10cm,T8141,PSI8,all,"Infection following a procedure, superficial incisional surgical site"
+icd10cm,T8142,PSI8,all,"Infection following a procedure, deep incisional surgical site"
+icd10cm,T8143,PSI8,all,"Infection following a procedure, organ and space surgical site"
+icd10cm,T8144,PSI8,all,Sepsis following a procedure
+icd10cm,T8149,PSI8,all,"Infection following a procedure, other surgical site"
+icd10cm,T826,PSI8,all,Infection and inflammatory reaction due to cardiac valve prosthesis
+icd10cm,T827,PSI8,all,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts"
+icd10cm,T835,PSI8,all,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+icd10cm,T836,PSI8,all,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract"
+icd10cm,T845,PSI8,all,Infection and inflammatory reaction due to internal joint prosthesis
+icd10cm,T846,PSI8,all,Infection and inflammatory reaction due to internal fixation device
+icd10cm,T847,PSI8,all,"Infection and inflammatory reaction due to other internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T857,PSI8,all,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts"
+icd10cm,T874,PSI8,all,Infection of amputation stump
+icd10cm,T81710,PSI9,all,"Complication of mesenteric artery following a procedure, not elsewhere classified"
+icd10cm,T81711,PSI9,all,"Complication of renal artery following a procedure, not elsewhere classified"
+icd10cm,T81718,PSI9,all,"Complication of other artery following a procedure, not elsewhere classified"
+icd10cm,T81719,PSI9,all,"Complication of unspecified artery following a procedure, not elsewhere classified"
+icd10cm,T8172,PSI9,all,"Complication of vein following a procedure, not elsewhere classified"
+icd10cm,I2601,PSI10,all,Septic pulmonary embolism with acute cor pulmonale
+icd10cm,I2602,PSI10,all,Saddle embolus of pulmonary artery with acute cor pulmonale
+icd10cm,I2609,PSI10,all,Other pulmonary embolism with acute cor pulmonale
+icd10cm,I2690,PSI10,all,Septic pulmonary embolism without acute cor pulmonale
+icd10cm,I2692,PSI10,all,Saddle embolus of pulmonary artery without acute cor pulmonale
+icd10cm,I2693,PSI10,all,Single subsegmental thrombotic pulmonary embolism without acute cor pulmonale
+icd10cm,I2694,PSI10,all,Multiple subsegmental thrombotic pulmonary emboli without acute cor pulmonale
+icd10cm,I2699,PSI10,all,Other pulmonary embolism without acute cor pulmonale
+icd10cm,T791,PSI10,all,Fat embolism (traumatic)
+icd10cm,G08,PSI11,all,Intracranial and intraspinal phlebitis and thrombophlebitis
+icd10cm,I801,PSI11,all,Phlebitis and thrombophlebitis of femoral vein
+icd10cm,I802,PSI11,all,Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities
+icd10cm,I82210,PSI11,all,Acute embolism and thrombosis of superior vena cava
+icd10cm,I82220,PSI11,all,Acute embolism and thrombosis of inferior vena cava
+icd10cm,I82290,PSI11,all,Acute embolism and thrombosis of other thoracic veins
+icd10cm,I823,PSI11,all,Embolism and thrombosis of renal vein
+icd10cm,I824,PSI11,all,Acute embolism and thrombosis of deep veins of lower extremity
+icd10cm,I8260,PSI11,all,Acute embolism and thrombosis of unspecified veins of upper extremity
+icd10cm,I8262,PSI11,all,Acute embolism and thrombosis of deep veins of upper extremity
+icd10cm,I82890,PSI11,all,Acute embolism and thrombosis of other specified veins
+icd10cm,I8290,PSI11,all,Acute embolism and thrombosis of unspecified vein
+icd10cm,I82A1,PSI11,all,Acute embolism and thrombosis of axillary vein
+icd10cm,I82B1,PSI11,all,Acute embolism and thrombosis of subclavian vein
+icd10cm,I82C1,PSI11,all,Acute embolism and thrombosis of internal jugular vein
+icd10cm,G060,PSI12,all,Intracranial abscess and granuloma
+icd10cm,G061,PSI12,all,Intraspinal abscess and granuloma
+icd10cm,G062,PSI12,all,"Extradural and subdural abscess, unspecified"
+icd10cm,G07,PSI12,all,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere
+icd10cm,I63,PSI13,all,Cerebral infarction
+icd10cm,I97811,PSI13,all,Intraoperative cerebrovascular infarction during other surgery
+icd10cm,I97821,PSI13,all,Postprocedural cerebrovascular infarction following other surgery
+icd10cm,T84018,PSI14,all,"Broken internal joint prosthesis, other site"
+icd10cm,T84019,PSI14,all,"Broken internal joint prosthesis, unspecified site"
+icd10cm,T84028,PSI14,all,Dislocation of other internal joint prosthesis
+icd10cm,T84029,PSI14,all,Dislocation of unspecified internal joint prosthesis
+icd10cm,T84038,PSI14,all,Mechanical loosening of other internal prosthetic joint
+icd10cm,T84039,PSI14,all,Mechanical loosening of unspecified internal prosthetic joint
+icd10cm,T84058,PSI14,all,Periprosthetic osteolysis of other internal prosthetic joint
+icd10cm,T84059,PSI14,all,Periprosthetic osteolysis of unspecified internal prosthetic joint
+icd10cm,T84068,PSI14,all,Wear of articular bearing surface of other internal prosthetic joint
+icd10cm,T84069,PSI14,all,Wear of articular bearing surface of unspecified internal prosthetic joint
+icd10cm,T84098,PSI14,all,Other mechanical complication of other internal joint prosthesis
+icd10cm,T84099,PSI14,all,Other mechanical complication of unspecified internal joint prosthesis
+icd10cm,T84119,PSI14,all,Breakdown (mechanical) of internal fixation device of unspecified bone of limb
+icd10cm,T84129,PSI14,all,Displacement of internal fixation device of unspecified bone of limb
+icd10cm,T84199,PSI14,all,Other mechanical complication of internal fixation device of unspecified bone of limb
+icd10cm,T84218,PSI14,all,Breakdown (mechanical) of internal fixation device of other bones
+icd10cm,T84228,PSI14,all,Displacement of internal fixation device of other bones
+icd10cm,T84298,PSI14,all,Other mechanical complication of internal fixation device of other bones
+icd10cm,T84310,PSI14,all,Breakdown (mechanical) of electronic bone stimulator
+icd10cm,T84318,PSI14,all,"Breakdown (mechanical) of other bone devices, implants and grafts"
+icd10cm,T84320,PSI14,all,Displacement of electronic bone stimulator
+icd10cm,T84328,PSI14,all,"Displacement of other bone devices, implants and grafts"
+icd10cm,T84390,PSI14,all,Other mechanical complication of electronic bone stimulator
+icd10cm,T84398,PSI14,all,"Other mechanical complication of other bone devices, implants and grafts"
+icd10cm,T84410,PSI14,all,Breakdown (mechanical) of muscle and tendon graft
+icd10cm,T84418,PSI14,all,"Breakdown (mechanical) of other internal orthopedic devices, implants and grafts"
+icd10cm,T84420,PSI14,all,Displacement of muscle and tendon graft
+icd10cm,T84428,PSI14,all,"Displacement of other internal orthopedic devices, implants and grafts"
+icd10cm,T84490,PSI14,all,Other mechanical complication of muscle and tendon graft
+icd10cm,T84498,PSI14,all,"Other mechanical complication of other internal orthopedic devices, implants and grafts"
+icd10cm,T8481,PSI14,all,"Embolism due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8482,PSI14,all,"Fibrosis due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8483,PSI14,all,"Hemorrhage due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8484,PSI14,all,"Pain due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8485,PSI14,all,"Stenosis due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8486,PSI14,all,"Thrombosis due to internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T8489,PSI14,all,"Other specified complication of internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T849,PSI14,all,"Unspecified complication of internal orthopedic prosthetic device, implant and graft"
+icd10cm,T85113,PSI14,all,"Breakdown (mechanical) of implanted electronic neurostimulator, generator"
+icd10cm,T85123,PSI14,all,"Displacement of implanted electronic neurostimulator, generator"
+icd10cm,T85193,PSI14,all,"Other mechanical complication of implanted electronic neurostimulator, generator"
+icd10cm,T85612,PSI14,all,Breakdown (mechanical) of permanent sutures
+icd10cm,T85613,PSI14,all,Breakdown (mechanical) of artificial skin graft and decellularized allodermis
+icd10cm,T85615,PSI14,all,"Breakdown (mechanical) of other nervous system device, implant or graft"
+icd10cm,T85618,PSI14,all,"Breakdown (mechanical) of other specified internal prosthetic devices, implants and grafts"
+icd10cm,T85622,PSI14,all,Displacement of permanent sutures
+icd10cm,T85623,PSI14,all,Displacement of artificial skin graft and decellularized allodermis
+icd10cm,T85625,PSI14,all,"Displacement of other nervous system device, implant or graft"
+icd10cm,T85628,PSI14,all,"Displacement of other specified internal prosthetic devices, implants and grafts"
+icd10cm,T85692,PSI14,all,Other mechanical complication of permanent sutures
+icd10cm,T85693,PSI14,all,Other mechanical complication of artificial skin graft and decellularized allodermis
+icd10cm,T85695,PSI14,all,"Other mechanical complication of other nervous system device, implant or graft"
+icd10cm,T85698,PSI14,all,"Other mechanical complication of other specified internal prosthetic devices, implants and grafts"
+icd10cm,T85810,PSI14,all,"Embolism due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85818,PSI14,all,"Embolism due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85820,PSI14,all,"Fibrosis due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85828,PSI14,all,"Fibrosis due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85830,PSI14,all,"Hemorrhage due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85838,PSI14,all,"Hemorrhage due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85840,PSI14,all,"Pain due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85848,PSI14,all,"Pain due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85850,PSI14,all,"Stenosis due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85858,PSI14,all,"Stenosis due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85860,PSI14,all,"Thrombosis due to nervous system prosthetic devices, implants and grafts"
+icd10cm,T85868,PSI14,all,"Thrombosis due to other internal prosthetic devices, implants and grafts"
+icd10cm,T85890,PSI14,all,"Other specified complication of nervous system prosthetic devices, implants and grafts"
+icd10cm,T85898,PSI14,all,"Other specified complication of other internal prosthetic devices, implants and grafts"
+icd10cm,T859,PSI14,all,"Unspecified complication of internal prosthetic device, implant and graft"
+icd10cm,T84213,PSI14,foot,Breakdown (mechanical) of internal fixation device of bones of foot and toes
+icd10cm,T84223,PSI14,foot,Displacement of internal fixation device of bones of foot and toes
+icd10cm,T84293,PSI14,foot,Other mechanical complication of internal fixation device of bones of foot and toes
+icd10cm,T84210,PSI14,hand,Breakdown (mechanical) of internal fixation device of bones of hand and fingers
+icd10cm,T84220,PSI14,hand,Displacement of internal fixation device of bones of hand and fingers
+icd10cm,T84290,PSI14,hand,Other mechanical complication of internal fixation device of bones of hand and fingers
+icd10cm,T84010,PSI14,hip,Broken internal right hip prosthesis
+icd10cm,T84011,PSI14,hip,Broken internal left hip prosthesis
+icd10cm,T84020,PSI14,hip,Dislocation of internal right hip prosthesis
+icd10cm,T84021,PSI14,hip,Dislocation of internal left hip prosthesis
+icd10cm,T84030,PSI14,hip,Mechanical loosening of internal right hip prosthetic joint
+icd10cm,T84031,PSI14,hip,Mechanical loosening of internal left hip prosthetic joint
+icd10cm,T84050,PSI14,hip,Periprosthetic osteolysis of internal prosthetic right hip joint
+icd10cm,T84051,PSI14,hip,Periprosthetic osteolysis of internal prosthetic left hip joint
+icd10cm,T84060,PSI14,hip,Wear of articular bearing surface of internal prosthetic right hip joint
+icd10cm,T84061,PSI14,hip,Wear of articular bearing surface of internal prosthetic left hip joint
+icd10cm,T84090,PSI14,hip,Other mechanical complication of internal right hip prosthesis
+icd10cm,T84091,PSI14,hip,Other mechanical complication of internal left hip prosthesis
+icd10cm,T84012,PSI14,knee,Broken internal right knee prosthesis
+icd10cm,T84013,PSI14,knee,Broken internal left knee prosthesis
+icd10cm,T84022,PSI14,knee,Instability of internal right knee prosthesis
+icd10cm,T84023,PSI14,knee,Instability of internal left knee prosthesis
+icd10cm,T84032,PSI14,knee,Mechanical loosening of internal right knee prosthetic joint
+icd10cm,T84033,PSI14,knee,Mechanical loosening of internal left knee prosthetic joint
+icd10cm,T84052,PSI14,knee,Periprosthetic osteolysis of internal prosthetic right knee joint
+icd10cm,T84053,PSI14,knee,Periprosthetic osteolysis of internal prosthetic left knee joint
+icd10cm,T84062,PSI14,knee,Wear of articular bearing surface of internal prosthetic right knee joint
+icd10cm,T84063,PSI14,knee,Wear of articular bearing surface of internal prosthetic left knee joint
+icd10cm,T84092,PSI14,knee,Other mechanical complication of internal right knee prosthesis
+icd10cm,T84093,PSI14,knee,Other mechanical complication of internal left knee prosthesis
+icd10cm,T84114,PSI14,lower,Breakdown (mechanical) of internal fixation device of right femur
+icd10cm,T84115,PSI14,lower,Breakdown (mechanical) of internal fixation device of left femur
+icd10cm,T84116,PSI14,lower,Breakdown (mechanical) of internal fixation device of bone of right lower leg
+icd10cm,T84117,PSI14,lower,Breakdown (mechanical) of internal fixation device of bone of left lower leg
+icd10cm,T84124,PSI14,lower,Displacement of internal fixation device of right femur
+icd10cm,T84125,PSI14,lower,Displacement of internal fixation device of left femur
+icd10cm,T84126,PSI14,lower,Displacement of internal fixation device of bone of right lower leg
+icd10cm,T84127,PSI14,lower,Displacement of internal fixation device of bone of left lower leg
+icd10cm,T84194,PSI14,lower,Other mechanical complication of internal fixation device of right femur
+icd10cm,T84195,PSI14,lower,Other mechanical complication of internal fixation device of left femur
+icd10cm,T84196,PSI14,lower,Other mechanical complication of internal fixation device of bone of right lower leg
+icd10cm,T84197,PSI14,lower,Other mechanical complication of internal fixation device of bone of left lower leg
+icd10cm,T84216,PSI14,spine,Breakdown (mechanical) of internal fixation device of vertebrae
+icd10cm,T84226,PSI14,spine,Displacement of internal fixation device of vertebrae
+icd10cm,T84296,PSI14,spine,Other mechanical complication of internal fixation device of vertebrae
+icd10cm,T85112,PSI14,spine,Breakdown (mechanical) of implanted electronic neurostimulator of spinal cord electrode (lead)
+icd10cm,T85122,PSI14,spine,Displacement of implanted electronic neurostimulator of spinal cord electrode (lead)
+icd10cm,T85192,PSI14,spine,Other mechanical complication of implanted electronic neurostimulator of spinal cord electrode (lead)
+icd10cm,T84110,PSI14,upper,Breakdown (mechanical) of internal fixation device of right humerus
+icd10cm,T84111,PSI14,upper,Breakdown (mechanical) of internal fixation device of left humerus
+icd10cm,T84112,PSI14,upper,Breakdown (mechanical) of internal fixation device of bone of right forearm
+icd10cm,T84113,PSI14,upper,Breakdown (mechanical) of internal fixation device of bone of left forearm
+icd10cm,T84120,PSI14,upper,Displacement of internal fixation device of right humerus
+icd10cm,T84121,PSI14,upper,Displacement of internal fixation device of left humerus
+icd10cm,T84122,PSI14,upper,Displacement of internal fixation device of bone of right forearm
+icd10cm,T84123,PSI14,upper,Displacement of internal fixation device of bone of left forearm
+icd10cm,T84190,PSI14,upper,Other mechanical complication of internal fixation device of right humerus
+icd10cm,T84191,PSI14,upper,Other mechanical complication of internal fixation device of left humerus
+icd10cm,T84192,PSI14,upper,Other mechanical complication of internal fixation device of bone of right forearm
+icd10cm,T84193,PSI14,upper,Other mechanical complication of internal fixation device of bone of left forearm
+icd10cm,T410X5,PSI15,all,Adverse effect of inhaled anesthetics
+icd10cm,T411X5,PSI15,all,Adverse effect of intravenous anesthetics
+icd10cm,T41205,PSI15,all,Adverse effect of unspecified general anesthetics
+icd10cm,T41295,PSI15,all,Adverse effect of other general anesthetics
+icd10cm,T413X5,PSI15,all,Adverse effect of local anesthetics
+icd10cm,T4145,PSI15,all,Adverse effect of unspecified anesthetic
+icd10cm,T882,PSI15,all,Shock due to anesthesia
+icd10cm,T883,PSI15,all,Malignant hyperthermia due to anesthesia
+icd10cm,T884,PSI15,all,Failed or difficult intubation
+icd10cm,T8851,PSI15,all,Hypothermia following anesthesia
+icd10cm,T8852,PSI15,all,Failed moderate sedation during procedure
+icd10cm,T8853,PSI15,all,Unintended awareness under general anesthesia during procedure
+icd10cm,T8859,PSI15,all,Other complications of anesthesia
+icd10cm,T886,PSI15,all,Anaphylactic reaction due to adverse effect of correct drug or medicament properly administered
+icd10cm,T887,PSI15,all,Unspecified adverse effect of drug or medicament
+icd10cm,T8021,DEVINF,all,Infection due to central venous catheter
+icd10cm,T826,DEVINF,all,Infection and inflammatory reaction due to cardiac valve prosthesis
+icd10cm,T827,DEVINF,all,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts"
+icd10cm,T835,DEVINF,all,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+icd10cm,T836,DEVINF,all,"Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract"
+icd10cm,T845,DEVINF,all,Infection and inflammatory reaction due to internal joint prosthesis
+icd10cm,T846,DEVINF,all,Infection and inflammatory reaction due to internal fixation device
+icd10cm,T847,DEVINF,all,"Infection and inflammatory reaction due to other internal orthopedic prosthetic devices, implants and grafts"
+icd10cm,T857,DEVINF,all,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts"
+icd9cm,3490,PSI2,all,Reaction to spinal or lumbar puncture
+icd9cm,3491,PSI2,all,Nervous system complications from surgically implanted device
+icd9cm,34931,PSI2,all,Accidental puncture or laceration of dura during a procedure
+icd9cm,99644,PSI2,all,Peri-prosthetic fracture around prosthetic joint
+icd9cm,99700,PSI2,all,"Nervous system complication, unspecified"
+icd9cm,99701,PSI2,all,Central nervous system complication
+icd9cm,99709,PSI2,all,Other nervous system complications
+icd9cm,9970=,PSI2,all,EXACT MATCH: Nervous system complications (until FY2005)
+icd9cm,72280,PSI2,spine,"Postlaminectomy syndrome, unspecified region"
+icd9cm,72281,PSI2,spine,"Postlaminectomy syndrome, cervical region"
+icd9cm,72282,PSI2,spine,"Postlaminectomy syndrome, thoracic region"
+icd9cm,72283,PSI2,spine,"Postlaminectomy syndrome, lumbar region"
+icd9cm,73712,PSI2,spine,"Kyphosis, postlaminectomy"
+icd9cm,73721,PSI2,spine,"Lordosis, postlaminectomy"
+icd9cm,73722,PSI2,spine,Other postsurgical lordosis
+icd9cm,5644,PSI3,all,Other postoperative functional disorders
+icd9cm,5793,PSI3,all,Other and unspecified postsurgical nonabsorption
+icd9cm,99749,PSI3,all,Other digestive system complications
+icd9cm,9974=,PSI3,all,EXACT MATCH: Digestive system complications (until FY2010)
+icd9cm,5121,PSI4,all,Iatrogenic pneumothorax
+icd9cm,5122,PSI4,all,Postoperative air leak
+icd9cm,51851,PSI4,all,Acute respiratory failure following trauma and surgery
+icd9cm,51852,PSI4,all,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+icd9cm,51853,PSI4,all,Acute and chronic respiratory failure following trauma and surgery
+icd9cm,5185=,PSI4,all,EXACT MATCH: Pulmonary insufficiency following trauma and surgery (until FY2012)
+icd9cm,5187,PSI4,all,Transfusion related acute lung injury (TRALI)
+icd9cm,99731,PSI4,all,Ventilator associated pneumonia
+icd9cm,99732,PSI4,all,Postprocedural aspiration pneumonia
+icd9cm,99739,PSI4,all,Other respiratory complications
+icd9cm,9973=,PSI4,all,EXACT MATCH: Respiratory complications (until FY2009)
+icd9cm,V4614,PSI4,all,Mechanical complication of respirator [ventilator]
+icd9cm,410,PSI5,all,Acute myocardial infarction of anterolateral wall (and related codes)
+icd9cm,4110,PSI5,all,Postmyocardial infarction syndrome
+icd9cm,41181,PSI5,all,Acute coronary occlusion without myocardial infarction
+icd9cm,41189,PSI5,all,"Other acute and subacute forms of ischemic heart disease, other"
+icd9cm,42979,PSI5,all,"Certain sequelae of myocardial infarction, not elsewhere classified, other"
+icd9cm,9971,PSI5,all,"Cardiac complications, not elsewhere classified"
+icd9cm,99791,PSI5,all,"Complications affecting other specified body systems, not elsewhere classified, hypertension"
+icd9cm,9975,PSI6,all,"Urinary complications, not elsewhere classified"
+icd9cm,99799,PSI7,all,"Complications affecting other specified body systems, not elsewhere classified"
+icd9cm,99800,PSI7,all,"Postoperative shock, unspecified"
+icd9cm,99801,PSI7,all,"Postoperative shock, cardiogenic"
+icd9cm,99802,PSI7,all,"Postoperative shock, septic"
+icd9cm,99809,PSI7,all,"Postoperative shock, other"
+icd9cm,9980=,PSI7,all,EXACT MATCH: Postoperative shock (until FY2012)
+icd9cm,99811,PSI7,all,Hemorrhage complicating a procedure
+icd9cm,99812,PSI7,all,Hematoma complicating a procedure
+icd9cm,99813,PSI7,all,Seroma complicating a procedure
+icd9cm,9982,PSI7,all,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+icd9cm,9984,PSI7,all,Foreign body accidentally left during a procedure
+icd9cm,9986,PSI7,all,Persistent postoperative fistula
+icd9cm,9987,PSI7,all,Acute reaction to foreign substance accidentally left during a procedure
+icd9cm,99881,PSI7,all,Emphysema (subcutaneous) (surgical) resulting from procedure
+icd9cm,99883,PSI7,all,Non-healing surgical wound
+icd9cm,99889,PSI7,all,Other specified complications of procedures not elsewhere classified
+icd9cm,9989,PSI7,all,"Unspecified complication of procedure, not elsewhere classified"
+icd9cm,9999,PSI7,all,"Other and unspecified complications of medical care, not elsewhere classified"
+icd9cm,9966,PSI8,all,Infection and inflammatory reaction due to unspecified device (and related codes)
+icd9cm,99731,PSI8,all,Ventilator associated pneumonia
+icd9cm,99762,PSI8,all,Infection (chronic) of amputation stump
+icd9cm,99802,PSI8,all,"Postoperative shock, septic"
+icd9cm,99830,PSI8,all,"Disruption of wound, unspecified"
+icd9cm,99831,PSI8,all,Disruption of internal operation (surgical) wound
+icd9cm,99832,PSI8,all,Disruption of external operation (surgical) wound
+icd9cm,99833,PSI8,all,Disruption of traumatic injury wound repair
+icd9cm,99851,PSI8,all,Infected postoperative seroma
+icd9cm,99859,PSI8,all,Other postoperative infection
+icd9cm,99931,PSI8,all,Other and unspecified infection due to central venous catheter
+icd9cm,99932,PSI8,all,Bloodstream infection due to central venous catheter
+icd9cm,99933,PSI8,all,Local infection due to central venous catheter
+icd9cm,99934,PSI8,all,"Acute infection following transfusion, infusion, or injection of blood and blood products"
+icd9cm,99939,PSI8,all,"Infection following other infusion, injection, transfusion, or vaccination"
+icd9cm,9993=,PSI8,all,EXACT MATCH: Infection following infusion/injection/transfusion (until FY2008)
+icd9cm,9972,PSI9,all,"Peripheral vascular complications, not elsewhere classified"
+icd9cm,99771,PSI9,all,Vascular complications of mesenteric artery
+icd9cm,99772,PSI9,all,Vascular complications of renal artery
+icd9cm,99779,PSI9,all,Vascular complications of other vessels
+icd9cm,9977=,PSI9,all,EXACT MATCH: Vascular complications of other vessels (until FY2010)
+icd9cm,41511,PSI10,all,Iatrogenic pulmonary embolism and infarction
+icd9cm,41512,PSI10,all,Septic pulmonary embolism
+icd9cm,41513,PSI10,all,Saddle embolus of pulmonary artery
+icd9cm,41519,PSI10,all,Other pulmonary embolism and infarction
+icd9cm,9581,PSI10,all,Fat embolism
+icd9cm,325,PSI11,all,Phlebitis and thrombophlebitis of intracranial venous sinuses
+icd9cm,45111,PSI11,all,Phlebitis and thrombophlebitis of femoral vein (deep) (superficial)
+icd9cm,45119,PSI11,all,"Phlebitis and thrombophlebitis of deep veins of lower extremities, other"
+icd9cm,45181,PSI11,all,Phlebitis and thrombophlebitis of iliac vein
+icd9cm,4532,PSI11,all,Other venous embolism and thrombosis of inferior vena cava
+icd9cm,4533,PSI11,all,Other venous embolism and thrombosis of renal vein
+icd9cm,45340,PSI11,all,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+icd9cm,45341,PSI11,all,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+icd9cm,45342,PSI11,all,Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+icd9cm,45382,PSI11,all,Acute venous embolism and thrombosis of deep veins of upper extremity
+icd9cm,45383,PSI11,all,"Acute venous embolism and thrombosis of upper extremity, unspecified"
+icd9cm,45384,PSI11,all,Acute venous embolism and thrombosis of axillary veins
+icd9cm,45385,PSI11,all,Acute venous embolism and thrombosis of subclavian veins
+icd9cm,45386,PSI11,all,Acute venous embolism and thrombosis of internal jugular veins
+icd9cm,45387,PSI11,all,Acute venous embolism and thrombosis of other thoracic veins
+icd9cm,45389,PSI11,all,Acute venous embolism and thrombosis of other specified veins
+icd9cm,4538=,PSI11,all,EXACT MATCH: Venous embolism and thrombosis of other specified veins (until FY2010)
+icd9cm,4539,PSI11,all,Other venous embolism and thrombosis of unspecified site
+icd9cm,3240,PSI12,all,Intracranial abscess
+icd9cm,3241,PSI12,all,Intraspinal abscess
+icd9cm,3249,PSI12,all,Intracranial and intraspinal abscess of unspecified site
+icd9cm,43301,PSI13,all,Occlusion and stenosis of basilar artery with cerebral infarction
+icd9cm,43311,PSI13,all,Occlusion and stenosis of carotid artery with cerebral infarction
+icd9cm,43321,PSI13,all,Occlusion and stenosis of vertebral artery with cerebral infarction
+icd9cm,43331,PSI13,all,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+icd9cm,43381,PSI13,all,Occlusion and stenosis of other specified precerebral artery with cerebral infarction
+icd9cm,43391,PSI13,all,Occlusion and stenosis of unspecified precerebral artery with cerebral infarction
+icd9cm,43401,PSI13,all,Cerebral thrombosis with cerebral infarction
+icd9cm,43411,PSI13,all,Cerebral embolism with cerebral infarction
+icd9cm,43491,PSI13,all,"Cerebral artery occlusion, unspecified with cerebral infarction"
+icd9cm,99702,PSI13,all,Iatrogenic cerebrovascular infarction or hemorrhage
+icd9cm,9962,PSI14,all,"Mechanical complication of nervous system device, implant, and graft"
+icd9cm,99640,PSI14,all,"Unspecified mechanical complication of internal orthopedic device, implant, and graft"
+icd9cm,99641,PSI14,all,Mechanical loosening of prosthetic joint
+icd9cm,99642,PSI14,all,Dislocation of prosthetic joint
+icd9cm,99643,PSI14,all,Broken prosthetic joint implant
+icd9cm,99645,PSI14,all,Peri-prosthetic osteolysis
+icd9cm,99646,PSI14,all,Articular bearing surface wear of prosthetic joint
+icd9cm,99647,PSI14,all,Other mechanical complication of prosthetic joint implant
+icd9cm,99649,PSI14,all,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+icd9cm,9964=,PSI14,all,EXACT MATCH: Mechanical complication of internal orthopedic device (until FY2006)
+icd9cm,99655,PSI14,all,Mechanical complication due to artificial skin graft and decellularized allodermis
+icd9cm,99659,PSI14,all,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+icd9cm,99670,PSI14,all,"Other complications due to unspecified device, implant, and graft"
+icd9cm,99675,PSI14,all,"Other complications due to nervous system device, implant, and graft"
+icd9cm,99677,PSI14,all,Other complications due to internal joint prosthesis
+icd9cm,99678,PSI14,all,"Other complications due to other internal orthopedic device, implant, and graft"
+icd9cm,99679,PSI14,all,"Other complications due to other internal prosthetic device, implant, and graft"
+icd9cm,9950,PSI15,all,Other anaphylactic reaction
+icd9cm,99520,PSI15,all,"Unspecified adverse effect of unspecified drug, medicinal and biological substance"
+icd9cm,99522,PSI15,all,Unspecified adverse effect of anesthesia
+icd9cm,99524,PSI15,all,Failed moderate sedation during procedure
+icd9cm,99529,PSI15,all,"Unspecified adverse effect of other drug, medicinal and biological substance"
+icd9cm,9952=,PSI15,all,EXACT MATCH: Unspecified adverse effect of drug (until FY2007)
+icd9cm,9954,PSI15,all,"Shock due to anesthesia, not elsewhere classified"
+icd9cm,99586,PSI15,all,Malignant hyperthermia
+icd9cm,E9381,PSI15,all,Halothane causing adverse effects in therapeutic use
+icd9cm,E9382,PSI15,all,Other gaseous anesthetics causing adverse effects in therapeutic use
+icd9cm,E9383,PSI15,all,Intravenous anesthetics causing adverse effects in therapeutic use
+icd9cm,E9384,PSI15,all,Other and unspecified general anesthetics causing adverse effects in therapeutic use
+icd9cm,E9385,PSI15,all,Surface and infiltration anesthetics causing adverse effects in therapeutic use
+icd9cm,E9386,PSI15,all,Peripheral nerve- and plexus-blocking anesthetics causing adverse effects in therapeutic use
+icd9cm,E9387,PSI15,all,Spinal anesthetics causing adverse effects in therapeutic use
+icd9cm,E9389,PSI15,all,Other and unspecified local anesthetics causing adverse effects in therapeutic use
+icd9cm,9966,DEVINF,all,Infection and inflammatory reaction due to unspecified device (and related codes)
+icd9cm,99931,DEVINF,all,Other and unspecified infection due to central venous catheter
+icd9cm,99932,DEVINF,all,Bloodstream infection due to central venous catheter
+icd9cm,99933,DEVINF,all,Local infection due to central venous catheter
