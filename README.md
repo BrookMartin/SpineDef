@@ -1,12 +1,13 @@
 # SpineDef
 
-**Stata programs for classifying spine diagnoses and procedures in administrative data**
+**Stata programs for classifying spine and orthopaedic diagnoses, procedures and complications in administrative data**
 
 | Program | Purpose | Input |
 |---|---|---|
 | [`spinedx`](spinedx) | Classifies spine diagnoses into 16 categories, a degenerative diagnosis hierarchy and vertebral regions, consistently across ICD-9-CM and ICD-10-CM | ICD-9-CM / ICD-10-CM diagnosis codes |
 | [`spinesx`](spinesx) | Classifies spine procedures into 18 groups and vertebral regions, and estimates the number of levels fused and decompressed | CPT / HCPCS codes |
 | [`spineinv`](spineinv) | Calculates the Surgical Invasiveness Index (Mirza et al., 2008) | CPT / HCPCS codes |
+| [`orthopsi`](orthopsi) | Flags 15 categories of post-procedure complications after orthopaedic surgery, plus device-related infections, with site-specific codes for spine, hip, knee, upper and lower extremity, foot and hand procedures | ICD-9-CM / ICD-10-CM diagnosis codes |
 
 The programs were developed for HCUP databases such as the National Inpatient Sample (NIS) and the Nationwide Ambulatory Surgery Sample (NASS), but work with any data holding codes in string variables. Each is driven by a code library (a CSV file installed with the program), so definitions can be reviewed and adapted without editing the program.
 
@@ -18,9 +19,10 @@ Stata 16 or later is required. Install any or all of the programs:
 net install spinedx,  from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinedx/")  replace
 net install spinesx,  from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinesx/")  replace
 net install spineinv, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spineinv/") replace
+net install orthopsi, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/orthopsi/") replace
 ```
 
-Then see `help spinedx`, `help spinesx` or `help spineinv`.
+Then see `help spinedx`, `help spinesx`, `help spineinv` or `help orthopsi`.
 
 Each program comes with a regression test, downloaded to the current folder with `net get` (e.g. `net get spinedx, from(...)`) and run with `do spinedx_test.do`.
 
@@ -34,6 +36,9 @@ spinedx, dx10(I10_DX1-I10_DX40)
 
 * Invasiveness of lumbar fusions for stenosis
 summarize SCORE if SPINESX9 == 1 & REGSX_L == 1 & SPINEDX4 == 1, detail
+
+* Complications after spine surgery (NIS)
+orthopsi, dx10(I10_DX1-I10_DX40) procedure(spine)
 ```
 
 ## Repository structure
@@ -45,7 +50,8 @@ SpineDef/
 ├── spinedx/     stata.toc, spinedx.pkg, spinedx.ado, spinedx.sthlp,
 │                spinedx_codes.csv, spinedx_test.do, README.md
 ├── spinesx/     (same structure)
-└── spineinv/    (same structure)
+├── spineinv/    (same structure)
+└── orthopsi/    (same structure)
 ```
 
 Each subfolder is a self-contained Stata package; see its README for details.
@@ -54,15 +60,11 @@ Each subfolder is a self-contained Stata package; see its README for details.
 
 If you use these programs in published work, please cite the program(s) used, for example:
 
-> Martin BI. spinedx: Stata program to classify spine diagnoses from ICD-9-CM and ICD-10-CM codes. Version 2.6. 2026. https://github.com/BrookMartin/SpineDef
-
-For the invasiveness index, please also cite:
-
-> Mirza SK, Deyo RA, Heagerty PJ, Konodi MA, Lee LA, Turner JA, Goodkin R. Development of an index to characterize the "invasiveness" of spine surgery: validation by comparison to blood loss and operative time. *Spine*. 2008;33(24):2651-2661. [doi:10.1097/BRS.0b013e31818dad07](https://doi.org/10.1097/BRS.0b013e31818dad07)
+> Martin BI. spinedx: Stata program to classify spine diagnoses from ICD-9-CM and ICD-10-CM codes. Version 2.6.1. 2026. https://github.com/BrookMartin/SpineDef
 
 ## Publications
 
-The classification algorithms were developed and validated based on the following studies and updated to reflect recent coding changes:
+The classification algorithms were developed and validated in the following studies:
 
 1. Martin BI, Mirza SK, Karamian BA, Schoenfeld AJ, Ko H, Suri P, Brodke DS. Cost and utilization trends of lumbar fusion. *JAMA Netw Open*. 2026 Mar 2;9(3):e260452. [doi:10.1001/jamanetworkopen.2026.0452](https://doi.org/10.1001/jamanetworkopen.2026.0452). PMID: 41779395; PMCID: PMC12961518.
 2. Martin BI, Lurie JD, Tosteson AN, Deyo RA, Tosteson TD, Weinstein JN, Mirza SK. Indications for spine surgery: validation of an administrative coding algorithm to classify degenerative diagnoses. *Spine (Phila Pa 1976)*. 2014 Apr 20;39(9):769-779. [doi:10.1097/BRS.0000000000000275](https://doi.org/10.1097/BRS.0000000000000275). PMID: 24525995; PMCID: PMC4018409.
