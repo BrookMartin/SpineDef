@@ -9,13 +9,13 @@
 In Stata 16 or later:
 
 ```stata
-net install spinedx, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinedx/") replace
+net install spinedx, from("https://raw.githubusercontent.com/GITHUB-USER/spinedx/main/") replace
 ```
 
 To also download the regression test to your current folder:
 
 ```stata
-net get spinedx, from("https://raw.githubusercontent.com/BrookMartin/SpineDef/main/spinedx/")
+net get spinedx, from("https://raw.githubusercontent.com/GITHUB-USER/spinedx/main/")
 do spinedx_test.do
 ```
 
@@ -95,14 +95,14 @@ When studying trends, examine the period around October 2015 for coding artifact
 
 ## Related programs
 
-- [`spinesx`](../spinesx): classify spine procedures from CPT codes
-- [`spineinv`](../spineinv): Surgical Invasiveness Index from CPT codes
+- [`spinesx`](https://github.com/GITHUB-USER/spinesx): classify spine procedures from CPT codes
+- [`spineinv`](https://github.com/GITHUB-USER/spineinv): Surgical Invasiveness Index from CPT codes
 
 ## Citation
 
 If you use `spinedx` in published work, please cite:
 
-> Martin BI. spinedx: Stata program to classify spine diagnoses from ICD-9-CM and ICD-10-CM codes. Version 2.6. 2026. https://github.com/BrookMartin/SpineDef
+> Martin BI. spinedx: Stata program to classify spine diagnoses from ICD-9-CM and ICD-10-CM codes. Version 2.6. 2026. https://github.com/GITHUB-USER/spinedx
 
 ## Author
 
@@ -112,4 +112,4 @@ Brook.Martin@hsc.utah.edu
 
 ## License
 
-MIT; see [LICENSE](../LICENSE). ICD-9-CM and ICD-10-CM are maintained by the Centers for Medicare & Medicaid Services and the National Center for Health Statistics.
+MIT; see [LICENSE](LICENSE). ICD-9-CM and ICD-10-CM are maintained by the Centers for Medicare & Medicaid Services and the National Center for Health Statistics.
